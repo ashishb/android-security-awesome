@@ -74,6 +74,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 20. [JD-GUI](http://java.decompiler.free.fr/?q=jdgui)
 21. [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
 22. [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
+23. [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)
 
 ## SAMPLE SOURCES
 

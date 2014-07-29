@@ -93,4 +93,11 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 8. [ExploitMe](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 9. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 10. [Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
+
+# Other Awesome Lists
+Other amazingly awesome lists can be found in the
+[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+
+# Contributing
+Your contributions are always welcome!
  

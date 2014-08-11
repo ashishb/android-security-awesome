@@ -76,6 +76,13 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 22. [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
 23. [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)
 
+## Exploitable Vulnerabilties
+
+1. [Vulnerability Google
+   doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
+2. [Root Exploits (from Drozer issue
+   #56)(https://github.com/mwrlabs/drozer/issues/56)
+
 ## SAMPLE SOURCES
 
 1. [contagio mini dump](http://contagiominidump.blogspot.com)

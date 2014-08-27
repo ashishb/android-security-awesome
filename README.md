@@ -93,13 +93,14 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 2. [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
-4. [adb autocomplete](http://romannurik-code.googlecode.com/git/misc/bash_completion/adb)
-5. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
-6. [Opcodes table for quick reference](http://xchg.info/corkami/opcodes_tables.pdf)
-7. [A good collection of static analysis papers](http://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
-8. [ExploitMe](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
-9. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
-10. [Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
+4. [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
+5. [adb autocomplete](http://romannurik-code.googlecode.com/git/misc/bash_completion/adb)
+6. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
+7. [Opcodes table for quick reference](http://xchg.info/corkami/opcodes_tables.pdf)
+8. [A good collection of static analysis papers](http://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
+9. [ExploitMe](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
+10. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
+11. [Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the

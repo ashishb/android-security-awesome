@@ -20,7 +20,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 10. [Sandroid](http://sanddroid.xjtu.edu.cn/)
 11. [Tracedroid](http://tracedroid.few.vu.nl/)
 12. [Visual Threat](http://www.visualthreat.com/)
-13. [Android Sandbox](http://www.androidsandbox.net/) – seems to be dead now
+13. [Android Sandbox](http://www.androidsandbox.net/)
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
  
 

@@ -21,6 +21,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 11. [Tracedroid](http://tracedroid.few.vu.nl/)
 12. [Visual Threat](http://www.visualthreat.com/)
 13. [Android Sandbox](http://www.androidsandbox.net/)
+14. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
  
 
@@ -49,6 +50,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 11. [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
 12. [Taintdroid](http://appanalysis.org/download.html) - requires AOSP compilation
 13. [Xposed](http://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
+14. [ViaLab Community Edition](https://viaforensics.com/product-updates/introducing-vialab-community-edition.html)
+15. [Ijiami (Chinese)](http://safe.ijiami.cn/)
 14. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
 
 ## REVERSE ENGINEERING

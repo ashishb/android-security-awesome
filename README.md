@@ -34,6 +34,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 5. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 6. [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
 7. [Smali CFG generator](http://code.google.com/p/smali-cfgs/)
+8. [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
 
 ## DYNAMIC ANALYSIS TOOLS
 

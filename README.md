@@ -98,7 +98,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 2. [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 4. [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
-5. [adb autocomplete](http://romannurik-code.googlecode.com/git/misc/bash_completion/adb)
+5. [adb autocomplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
 6. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 7. [Opcodes table for quick reference](http://xchg.info/corkami/opcodes_tables.pdf)
 8. [A good collection of static analysis papers](http://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)

@@ -109,6 +109,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 9. [ExploitMe](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 10. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 11. [Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
+12. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the

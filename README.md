@@ -39,22 +39,22 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## DYNAMIC ANALYSIS TOOLS
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
-2. [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an online analyzer at http://dunkelheit.com.br/amat/analysis/index_en.html
-3. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) does not seem to be under active development anymore
-4. [Android Security Evaluation Framework](https://code.google.com/p/asef/)
+2. [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.html)
 5. [AppUse](https://appsec-labs.com/AppUse) – custom build for pentesting
-6. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, does not seem to be active development anymore
 7. [Cobradroid](http://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
-8. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
+8. [ViaLab Community Edition](https://viaforensics.com/product-updates/introducing-vialab-community-edition.html)
 9. [Droidbox](http://code.google.com/p/droidbox/)
 10. [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
 11. [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
 12. [Taintdroid](http://appanalysis.org/download.html) - requires AOSP compilation
 13. [Xposed](http://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
-14. [ViaLab Community Edition](https://viaforensics.com/product-updates/introducing-vialab-community-edition.html)
-15. [Ijiami (Chinese)](http://safe.ijiami.cn/)
+15. [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
+16. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
+16. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
+16. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
+18. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not be under active development anymore
+19. [Ijiami (Chinese)](http://safe.ijiami.cn/) - seems dead now
 16. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
-17. [Android Hooker] (https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
 
 ## REVERSE ENGINEERING
 

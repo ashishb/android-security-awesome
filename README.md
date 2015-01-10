@@ -23,11 +23,9 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 13. [Android Sandbox](http://www.androidsandbox.net/)
 14. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
- 
 
 ## STATIC ANALYSIS TOOLS
 
-1. [Android Decompiler](http://www.android-decompiler.com/) – not free
 2. [Androwarn](https://github.com/maaaaz/androwarn/)
 3. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 4. [APKInspector](https://github.com/honeynet/apkinspector/)
@@ -35,6 +33,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 6. [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
 7. [Smali CFG generator](http://code.google.com/p/smali-cfgs/)
 8. [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
+9. [Android Decompiler](http://www.android-decompiler.com/) – not free
 
 ## DYNAMIC ANALYSIS TOOLS
 
@@ -52,7 +51,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 16. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
 16. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 16. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
-18. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not be under active development anymore
+18. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore
 19. [Ijiami (Chinese)](http://safe.ijiami.cn/) - seems dead now
 16. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
 

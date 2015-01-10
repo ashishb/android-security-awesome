@@ -53,7 +53,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 13. [Xposed](http://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
 14. [ViaLab Community Edition](https://viaforensics.com/product-updates/introducing-vialab-community-edition.html)
 15. [Ijiami (Chinese)](http://safe.ijiami.cn/)
-14. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
+16. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
+17. [Android Hooker] (https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
 
 ## REVERSE ENGINEERING
 

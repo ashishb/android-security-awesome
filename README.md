@@ -84,6 +84,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 22. [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
 23. [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)
 24. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
+25. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 
 ## Exploitable Vulnerabilties
 

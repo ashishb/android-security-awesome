@@ -48,6 +48,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 12. [Taintdroid](http://appanalysis.org/download.html) - requires AOSP compilation
 13. [Xposed](http://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
 15. [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
+16. [Android tamer](https://androidtamer.com/) - custom image
 16. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
 16. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 16. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore

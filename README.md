@@ -56,6 +56,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 18. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore
 19. [Ijiami (Chinese)](http://safe.ijiami.cn/) - seems dead now
 16. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
+17. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
 
 ## REVERSE ENGINEERING
 

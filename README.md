@@ -115,6 +115,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 10. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 11. [Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 12. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+13. [Analyzing an Android App With Docker and Androguard](http://bitjudo.com/blog/2014/04/24/analyzing-an-android-app-with-docker-and-androguard/), github: [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the

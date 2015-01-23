@@ -85,7 +85,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 23. [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler
 21. [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
 22. [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
-23. [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)
+23. [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid) (no longer available), [fork/mirror](https://github.com/yangbean9/ZjDroid)
 24. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 25. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 

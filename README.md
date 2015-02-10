@@ -59,7 +59,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 19. [Ijiami (Chinese)](http://safe.ijiami.cn/) - seems dead now
 16. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
 17. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
-18. [Appie](http://manifestsecurity.com/appie/)- Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
+18. [Appie](http://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
+19. [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 
 ## REVERSE ENGINEERING
 
@@ -67,7 +68,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 3. [emacs syntax coloring for smali files](https://github.com/strazzere/Emacs-Smali)
 4. [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
 5. [AndBug](https://github.com/swdunlop/AndBug)
-6. [Androguard](http://code.google.com/p/androguard/) – powerful, integrates well with other tools
+6. [Androguard](https://github.com/androguard/androguard) – powerful, integrates well with other tools
 7. [Apktool](http://code.google.com/p/android-apktool/) – really useful for compilation/decompilation (uses smali)
 8. [Android Framework for Exploitation](https://github.com/xysec/AFE)
 9. [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
@@ -91,17 +92,26 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 24. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 25. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 
+##APP REPACKAGING DETECTORS
+
+1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
+
 ## Exploitable Vulnerabilties
 
 1. [Vulnerability Google
    doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 2. [Root Exploits (from Drozer issue
-   #56)(https://github.com/mwrlabs/drozer/issues/56)
+   #56)](https://github.com/mwrlabs/drozer/issues/56)
 
 ## SAMPLE SOURCES
 
 1. [contagio mini dump](http://contagiominidump.blogspot.com)
 2. [Open Source database](http://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
+3. [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
+
+## BOOKS
+
+1. [Android Security (and Not) Internals](http://www.zhauniarovich.com/pubs.html)
 
 ## MISC TOOLS/READINGS
 

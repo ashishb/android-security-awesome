@@ -36,6 +36,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 8. [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
 9. [Android Decompiler](http://www.android-decompiler.com/) – not free
 10. [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis
+11. [Amandroid](http://amandroid.sireum.org/)
 
 ## DYNAMIC ANALYSIS TOOLS
 

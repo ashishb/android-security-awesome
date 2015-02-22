@@ -92,6 +92,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 23. [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid) (no longer available), [fork/mirror](https://github.com/yangbean9/ZjDroid)
 24. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 25. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
+26. [Krakatau](https://github.com/Storyyeller/Krakatau)
 
 ##APP REPACKAGING DETECTORS
 

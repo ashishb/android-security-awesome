@@ -89,6 +89,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 21. [CFR](http://www.benf.org/other/cfr/) - Java decompiler
 22. [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler
 23. [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler
+24. [FernFlower](https://github.com/fesh0r/fernflower) - Java decompiler
 21. [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
 22. [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
 23. [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid) (no longer available), [fork/mirror](https://github.com/yangbean9/ZjDroid)

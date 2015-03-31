@@ -39,6 +39,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 11. [Amandroid](http://amandroid.sireum.org/)
 12. [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
 13. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
+14. [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
 
 ## DYNAMIC ANALYSIS TOOLS
 

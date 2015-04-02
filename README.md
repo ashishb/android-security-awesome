@@ -22,6 +22,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 12. [Visual Threat](http://www.visualthreat.com/)
 13. [Android Sandbox](http://www.androidsandbox.net/)
 14. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
+15. [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
 15. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
 

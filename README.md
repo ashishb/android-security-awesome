@@ -24,6 +24,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 14. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 15. [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
 15. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
+16. [NVISO ApkScan](http://apkscan.nviso.be/)
+17. [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
 
 ## STATIC ANALYSIS TOOLS

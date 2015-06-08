@@ -68,6 +68,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 17. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
 18. [Appie](http://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 19. [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
+20. [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 
 ## REVERSE ENGINEERING
 

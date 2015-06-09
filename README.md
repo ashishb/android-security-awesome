@@ -82,7 +82,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 9. [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 10. [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate).
 11. [Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter
-12. [Dex2Jar](http://code.google.com/p/dex2jar/)
+12. [Dex2Jar](http://code.google.com/p/dex2jar/) - dex to jar converter
+13. [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google
 13. [Dedexer](http://dedexer.sourceforge.net)
 14. [Fino](https://github.com/sysdream/fino)
 15. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit

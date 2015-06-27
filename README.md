@@ -12,7 +12,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 2. [Anubis](http://anubis.iseclab.org/)
 3. [App 360 scan](http://www.app360scan.com/)
 4. [CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)
-5. [Comdroid](http://www.comdroid.org/)
 6. [Dexter](https://dexter.bluebox.com/)
 7. [Foresafe](http://www.foresafe.com/scan)
 8. [Mobile app insight](http://www.mobile-app-insight.org)
@@ -27,6 +26,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 16. [NVISO ApkScan](http://apkscan.nviso.be/)
 17. [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
+15. [Comdroid](http://www.comdroid.org/) - seems to be dead now
 
 ## STATIC ANALYSIS TOOLS
 

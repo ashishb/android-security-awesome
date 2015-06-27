@@ -91,7 +91,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 17. [IntentSniffer](https://www.isecpartners.com/tools/mobile-security/intent-sniffer.aspx)
 18. [Introspy](https://github.com/iSECPartners/Introspy-Android)
 19. [Jad]( http://www.varaneckas.com/jad) - Java decompiler
-20. [JD-GUI](http://java.decompiler.free.fr/?q=jdgui) - Java decompiler
+20. [JD-GUI](https://github.com/java-decompiler/jd-gui) - Java decompiler
 21. [CFR](http://www.benf.org/other/cfr/) - Java decompiler
 22. [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler
 23. [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler

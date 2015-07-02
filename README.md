@@ -59,6 +59,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 15. [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
 16. [Android tamer](https://androidtamer.com/) - custom image
 17. [Droidscope](https://code.google.com/p/decaf-platform/wiki/DroidScope) - custom image for dynamic analysis
+18. [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 16. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
 16. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 16. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
@@ -66,6 +67,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 19. [Ijiami (Chinese)](http://safe.ijiami.cn/) - seems dead now
 16. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
 17. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
+18.
 18. [Appie](http://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 19. [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 20. [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete

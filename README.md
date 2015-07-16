@@ -60,6 +60,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 16. [Android tamer](https://androidtamer.com/) - custom image
 17. [Droidscope](https://code.google.com/p/decaf-platform/wiki/DroidScope) - custom image for dynamic analysis
 18. [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
+19. [Mem](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
 16. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
 16. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 16. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore

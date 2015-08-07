@@ -123,11 +123,13 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 2. [Open Source database](http://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 3. [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
 
-## BOOKS
+## Reading material
 
 1. [Android Security (and Not) Internals](http://www.zhauniarovich.com/pubs.html)
+2. [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
+3. [A good collection of static analysis papers](http://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 
-## MISC TOOLS/READINGS
+## MISC TOOLS
 
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 2. [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
@@ -136,7 +138,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 5. [adb autocomplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
 6. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 7. [Opcodes table for quick reference](http://xchg.info/corkami/opcodes_tables.pdf)
-8. [A good collection of static analysis papers](http://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 9. [ExploitMe](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 10. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 11. [Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice

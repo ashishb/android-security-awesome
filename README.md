@@ -129,6 +129,14 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 2. [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
 3. [A good collection of static analysis papers](http://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 
+## MARKET CRAWLERS
+
+1. [Google play crawler (Java)](https://github.com/Akdeniz/google-play-crawler)
+2. [Google play crawler (Python)](https://github.com/egirault/googleplay-api)
+2. [Google play crawler (Node) ](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
+3. [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
+4. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
+
 ## MISC TOOLS
 
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)

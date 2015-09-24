@@ -122,6 +122,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 1. [contagio mini dump](http://contagiominidump.blogspot.com)
 2. [Open Source database](http://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 3. [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
+4. {Admire](http://admire.necst.it/)
 
 ## Reading material
 

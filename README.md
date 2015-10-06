@@ -92,6 +92,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 14. [Fino](https://github.com/sysdream/fino)
 15. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
 16. [IntentFuzzer](https://www.isecpartners.com/tools/mobile-security/intent-fuzzer.aspx)
+17. [Randamsa Fuzzer](https://github.com/anestisb/radamsa-android)
 17. [IntentSniffer](https://www.isecpartners.com/tools/mobile-security/intent-sniffer.aspx)
 18. [Introspy](https://github.com/iSECPartners/Introspy-Android)
 19. [Jad]( http://www.varaneckas.com/jad) - Java decompiler

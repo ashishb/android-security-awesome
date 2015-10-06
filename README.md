@@ -91,8 +91,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 13. [Dedexer](http://dedexer.sourceforge.net)
 14. [Fino](https://github.com/sysdream/fino)
 15. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
-16. [IntentFuzzer](https://www.isecpartners.com/tools/mobile-security/intent-fuzzer.aspx)
-17. [Randamsa Fuzzer](https://github.com/anestisb/radamsa-android)
 17. [IntentSniffer](https://www.isecpartners.com/tools/mobile-security/intent-sniffer.aspx)
 18. [Introspy](https://github.com/iSECPartners/Introspy-Android)
 19. [Jad]( http://www.varaneckas.com/jad) - Java decompiler
@@ -107,6 +105,14 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 24. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 25. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 26. [Krakatau](https://github.com/Storyyeller/Krakatau)
+
+## FUZZ TESTING
+
+1. [IntentFuzzer](https://www.isecpartners.com/tools/mobile-security/intent-fuzzer.aspx)
+2. [Radamsa Fuzzer](https://github.com/anestisb/radamsa-android)
+3. [Honggfuzz](https://github.com/google/honggfuzz)
+4. [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
+5. [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
 
 ##APP REPACKAGING DETECTORS
 
@@ -145,7 +151,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 2. [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
-4. [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
 5. [adb autocomplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
 6. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 7. [Opcodes table for quick reference](http://xchg.info/corkami/opcodes_tables.pdf)

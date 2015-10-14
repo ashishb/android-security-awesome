@@ -25,7 +25,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 15. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 16. [NVISO ApkScan](http://apkscan.nviso.be/)
 17. [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
-18. 19. [Ijiami (Chinese)](http://safe.ijiami.cn/)
+18. [Ijiami (Chinese)](http://safe.ijiami.cn/)
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
 15. [Comdroid](http://www.comdroid.org/) - seems to be dead now
 

@@ -25,6 +25,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 15. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 16. [NVISO ApkScan](http://apkscan.nviso.be/)
 17. [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
+18. 19. [Ijiami (Chinese)](http://safe.ijiami.cn/)
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
 15. [Comdroid](http://www.comdroid.org/) - seems to be dead now
 
@@ -67,7 +68,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 16. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 16. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
 18. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore
-19. [Ijiami (Chinese)](http://safe.ijiami.cn/) - seems dead now
 16. [Aurasium](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
 17. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
 18.

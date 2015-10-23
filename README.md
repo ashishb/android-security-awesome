@@ -31,21 +31,21 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## STATIC ANALYSIS TOOLS
 
-2. [Androwarn](https://github.com/maaaaz/androwarn/)
-3. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
-4. [APKInspector](https://github.com/honeynet/apkinspector/)
-5. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
-6. [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
-7. [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs/)
-8. [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
-9. [Android Decompiler](http://www.android-decompiler.com/) – not free
-10. [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis
-11. [Amandroid](http://amandroid.sireum.org/)
-12. [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
-13. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
-14. [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
-15. [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://checkerframework.org/)
-16. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
+1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
+* [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
+* [APKInspector](https://github.com/honeynet/apkinspector/)
+* [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
+* [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
+* [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs/)
+* [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
+* [Android Decompiler](http://www.android-decompiler.com/) – not free
+* [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis
+* [Amandroid](http://amandroid.sireum.org/)
+* [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
+* [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
+* [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
+* [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://checkerframework.org/)
+* [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 
 ## DYNAMIC ANALYSIS TOOLS
 

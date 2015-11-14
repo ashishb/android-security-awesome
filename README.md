@@ -23,7 +23,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 14. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 15. [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
 15. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
-16. [NVISO ApkScan](http://apkscan.nviso.be/)
+16. [NVISO ApkScan](https://apkscan.nviso.be/)
 17. [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
 14. [Stowaway](http://www.android-permissions.org/) – seems to be dead now
 15. [Comdroid](http://www.comdroid.org/) - seems to be dead now
@@ -37,28 +37,25 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 6. [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
 7. [Smali CFG generator](http://code.google.com/p/smali-cfgs/)
 8. [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
-9. [Android Decompiler](http://www.android-decompiler.com/) – not free
+9. [Android Decompiler](https://www.pnfsoftware.com/) – not free
 10. [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis
 11. [Amandroid](http://amandroid.sireum.org/)
 12. [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
 13. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
 14. [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
 15. [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://checkerframework.org/)
-
-## APP VULNERABILITY SCANNERS
-1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
-2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+16. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 
 ## DYNAMIC ANALYSIS TOOLS
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.html)
-5. [AppUse](https://appsec-labs.com/AppUse) – custom build for pentesting
-7. [Cobradroid](http://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
-8. [ViaLab Community Edition](https://viaforensics.com/product-updates/introducing-vialab-community-edition.html)
+5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
+7. [Cobradroid](https://www.thecobraden.com/projects/cobradroid/) – custom image for malware analysis
+8. [ViaLab Community Edition](https://www.nowsecure.com/product-updates/introducing-vialab-community-edition.html%23viaforensics)
 9. [Droidbox](http://code.google.com/p/droidbox/)
 10. [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
-11. [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
+11. [Drozer](https://www.mwrinfosecurity.com/products/drozer/)
 12. [Taintdroid](http://appanalysis.org/download.html) - requires AOSP compilation
 13. [Xposed](http://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
 15. [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
@@ -74,7 +71,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 16. [Aurasium](http://www.aurasium.com/) – rewrites the android app to add security policy, seems dead now
 17. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
 18.
-18. [Appie](http://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
+18. [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 19. [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 20. [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 21. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis 
@@ -87,18 +84,18 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 5. [AndBug](https://github.com/swdunlop/AndBug)
 6. [Androguard](https://github.com/androguard/androguard) – powerful, integrates well with other tools
 7. [Apktool](http://code.google.com/p/android-apktool/) – really useful for compilation/decompilation (uses smali)
-8. [Android Framework for Exploitation](https://github.com/xysec/AFE)
+8. [Android Framework for Exploitation](https://github.com/appknox/AFE)
 9. [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 10. [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate).
 11. [Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter
-12. [Dex2Jar](http://code.google.com/p/dex2jar/) - dex to jar converter
+12. [Dex2Jar](https://github.com/pxb1988/dex2jar) - dex to jar converter
 13. [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google
 13. [Dedexer](http://dedexer.sourceforge.net)
 14. [Fino](https://github.com/sysdream/fino)
 15. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
-17. [IntentSniffer](https://www.isecpartners.com/tools/mobile-security/intent-sniffer.aspx)
+17. [IntentSniffer](https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/)
 18. [Introspy](https://github.com/iSECPartners/Introspy-Android)
-19. [Jad]( http://www.varaneckas.com/jad) - Java decompiler
+19. [Jad]( http://varaneckas.com/jad/) - Java decompiler
 20. [JD-GUI](https://github.com/java-decompiler/jd-gui) - Java decompiler
 21. [CFR](http://www.benf.org/other/cfr/) - Java decompiler
 22. [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler
@@ -113,7 +110,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## FUZZ TESTING
 
-1. [IntentFuzzer](https://www.isecpartners.com/tools/mobile-security/intent-fuzzer.aspx)
+1. [IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)
 2. [Radamsa Fuzzer](https://github.com/anestisb/radamsa-android)
 3. [Honggfuzz](https://github.com/google/honggfuzz)
 4. [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
@@ -141,7 +138,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 1. [Android Security (and Not) Internals](http://www.zhauniarovich.com/pubs.html)
 2. [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
-3. [A good collection of static analysis papers](http://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
+3. [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 
 ## MARKET CRAWLERS
 
@@ -158,7 +155,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 5. [adb autocomplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
 6. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
-7. [Opcodes table for quick reference](http://xchg.info/corkami/opcodes_tables.pdf)
+7. [Opcodes table for quick reference](http://www.xchg.info/corkami/opcodes_tables.pdf)
 9. [ExploitMe](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 10. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 11. [Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice

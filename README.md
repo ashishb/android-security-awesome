@@ -12,7 +12,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 2. [Anubis](http://anubis.iseclab.org/)
 3. [App 360 scan](http://www.app360scan.com/)
 4. [CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)
-6. [Dexter](https://dexter.bluebox.com/)
+6. [Dexter](http://dexter.dexlabs.org/)
 7. [Foresafe](http://www.foresafe.com/scan)
 8. [Mobile app insight](http://www.mobile-app-insight.org)
 9. [Mobile-Sandbox](http://mobile-sandbox.com)

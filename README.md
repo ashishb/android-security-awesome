@@ -134,8 +134,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 2. [Open Source database](http://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 3. [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
 4. [Admire](http://admire.necst.it/)
-5. [MalGenome](http://www.malgenomeproject.org/policy.html)    - maintained by Yajin Zhou(North Carolina State University),contains 1260 malware samples categorized into 49 different malware families,free for research purpose.
-6. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/terms-of-service/) - powered by ViusTotal,not free
+5. [MalGenome](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
+6. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal,not free
  
 ## Reading material
 

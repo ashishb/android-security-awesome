@@ -110,6 +110,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 24. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 25. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 26. [Krakatau](https://github.com/Storyyeller/Krakatau)
+27. [Radare2](https://github.com/radare/radare2)
 
 ## FUZZ TESTING
 

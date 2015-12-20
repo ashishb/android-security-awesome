@@ -26,6 +26,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## STATIC ANALYSIS TOOLS
 
+1. [AndroBugs Framework](https://github.com/AndroBugs/AndroBugs_Framework) - AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications. No need to install on Windows.
 2. [Androwarn](https://github.com/maaaaz/androwarn/)
 3. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 4. [APKInspector](https://github.com/honeynet/apkinspector/)

@@ -62,12 +62,12 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## REVERSE ENGINEERING
 
-1. [Smali/Baksmali](http://code.google.com/p/smali/) – apk decompilation
+1. [Smali/Baksmali](https://github.com/JesusFreke/smali) – apk decompilation
 3. [emacs syntax coloring for smali files](https://github.com/strazzere/Emacs-Smali)
 4. [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
 5. [AndBug](https://github.com/swdunlop/AndBug)
 6. [Androguard](http://code.google.com/p/androguard/) – powerful, integrates well with other tools
-7. [Apktool](http://code.google.com/p/android-apktool/) – really useful for compilation/decompilation (uses smali)
+7. [Apktool](http://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
 8. [Android Framework for Exploitation](https://github.com/xysec/AFE)
 9. [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 10. [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate).

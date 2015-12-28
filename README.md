@@ -39,9 +39,9 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [APKInspector](https://github.com/honeynet/apkinspector/)
 * [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 * [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
-* [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs/)
+* [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)
 * [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
-* [Android Decompiler](http://www.android-decompiler.com/) – not free
+* [Android Decompiler](https://www.pnfsoftware.com/) – not free
 * [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis
 * [Amandroid](http://amandroid.sireum.org/)
 * [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
@@ -101,7 +101,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
 * [IntentSniffer](https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/)
 * [Introspy](https://github.com/iSECPartners/Introspy-Android)
-* [Jad]( http://www.varaneckas.com/jad) - Java decompiler
+* [Jad]( http://varaneckas.com/jad/) - Java decompiler
 * [JD-GUI](https://github.com/java-decompiler/jd-gui) - Java decompiler
 * [CFR](http://www.benf.org/other/cfr/) - Java decompiler
 * [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler
@@ -130,7 +130,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 1. [Vulnerability Google
    doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
-* [Root Exploits (from Drozer issue56)](https://github.com/mwrlabs/drozer/issues/56)
+* [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
 
 ## SAMPLE SOURCES
 

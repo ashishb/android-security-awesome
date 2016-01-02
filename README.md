@@ -34,6 +34,18 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## STATIC ANALYSIS TOOLS
 
+<<<<<<< HEAD
+1. [AndroBugs Framework](https://github.com/AndroBugs/AndroBugs_Framework) - AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications. No need to install on Windows.
+2. [Androwarn](https://github.com/maaaaz/androwarn/)
+3. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
+4. [APKInspector](https://github.com/honeynet/apkinspector/)
+5. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
+6. [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
+7. [Smali CFG generator](http://code.google.com/p/smali-cfgs/)
+8. [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
+9. [Android Decompiler](http://www.android-decompiler.com/) – not free
+10. [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis
+=======
 1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
 * [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 * [APKInspector](https://github.com/honeynet/apkinspector/)
@@ -52,6 +64,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## APP VULNERABILITY SCANNERS
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 * [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+>>>>>>> refs/remotes/ashishb/master
 
 ## DYNAMIC ANALYSIS TOOLS
 
@@ -84,6 +97,35 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## REVERSE ENGINEERING
 
+<<<<<<< HEAD
+1. [Smali/Baksmali](https://github.com/JesusFreke/smali) – apk decompilation
+3. [emacs syntax coloring for smali files](https://github.com/strazzere/Emacs-Smali)
+4. [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
+5. [AndBug](https://github.com/swdunlop/AndBug)
+6. [Androguard](http://code.google.com/p/androguard/) – powerful, integrates well with other tools
+7. [Apktool](http://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
+8. [Android Framework for Exploitation](https://github.com/xysec/AFE)
+9. [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
+10. [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate).
+11. [Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter
+12. [Dex2Jar](http://code.google.com/p/dex2jar/)
+13. [Dedexer](http://dedexer.sourceforge.net)
+14. [Fino](https://github.com/sysdream/fino)
+15. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
+16. [IntentFuzzer](https://www.isecpartners.com/tools/mobile-security/intent-fuzzer.aspx)
+17. [IntentSniffer](https://www.isecpartners.com/tools/mobile-security/intent-sniffer.aspx)
+18. [Introspy](https://github.com/iSECPartners/Introspy-Android)
+19. [Jad]( http://www.varaneckas.com/jad) - Java decompiler
+20. [JD-GUI](http://java.decompiler.free.fr/?q=jdgui) - Java decompiler
+21. [CFR](http://www.benf.org/other/cfr/) - Java decompiler
+22. [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler
+23. [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler
+21. [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
+22. [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
+23. [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid) (no longer available), [fork/mirror](https://github.com/yangbean9/ZjDroid)
+24. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
+25. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
+=======
 1. [Smali/Baksmali](http://code.google.com/p/smali/) – apk decompilation
 * [emacs syntax coloring for smali files](https://github.com/strazzere/Emacs-Smali)
 * [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
@@ -125,6 +167,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ##APP REPACKAGING DETECTORS
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
+>>>>>>> refs/remotes/ashishb/master
 
 ## Exploitable Vulnerabilties
 

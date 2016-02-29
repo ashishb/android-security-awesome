@@ -31,6 +31,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day
 * [habo](http://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
+* [Fraunhofer App-ray](http://www.app-ray.com) - not free 
 
 ## STATIC ANALYSIS TOOLS
 

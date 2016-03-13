@@ -10,7 +10,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 1. [AndroTotal](http://andrototal.org/)
 * [Anubis](http://anubis.iseclab.org/)
-* [App 360 scan](http://www.app360scan.com/)
 * [CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)
 * [Dexter](https://dexter.bluebox.com/)
 * [Foresafe](http://www.foresafe.com/scan)

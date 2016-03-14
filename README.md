@@ -170,6 +170,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/nowsecure/android-vts) - android-vts scans a device for set of vulnerabilities
+* [Androl4b](https://github.com/sh4hin/Androl4b) - VM For Assessing Android applications, Reverse Rngineering and malware analysis.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the

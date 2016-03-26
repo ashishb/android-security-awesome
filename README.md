@@ -12,25 +12,25 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Anubis](http://anubis.iseclab.org/)
 * [CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)
 * [Dexter](https://dexter.dexlabs.org/)
-* [Foresafe](http://www.foresafe.com/scan)
 * [Mobile app insight](http://www.mobile-app-insight.org)
 * [Mobile-Sandbox](http://mobile-sandbox.com)
 * [Sandroid](http://sanddroid.xjtu.edu.cn/)
 * [Tracedroid](http://tracedroid.few.vu.nl/)
 * [Visual Threat](http://www.visualthreat.com/)
-* [Android Sandbox](http://www.androidsandbox.net/)
 * [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 * [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
 * [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
-* [NVISO ApkScan](http://apkscan.nviso.be/)
+* [NVISO ApkScan](https://apkscan.nviso.be/)
 * [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
 * [Ijiami](http://safe.ijiami.cn/)
-* [Stowaway](http://www.android-permissions.org/) – seems to be dead now
 * [Comdroid](http://www.comdroid.org/) - seems to be dead now
 * [Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day
-* [habo](http://habo.qq.com/) 10/day
+* [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
-* [Fraunhofer App-ray](http://www.app-ray.com) - not free 
+* [Fraunhofer App-ray](https://www.app-ray.com) - not free
+* [Android Sandbox](http://www.androidsandbox.net/) - seems to be dead now
+* [Foresafe](http://www.foresafe.com/scan) - seems to be dead now
+* [Stowaway](http://www.android-permissions.org/) – seems to be dead now
 
 ## STATIC ANALYSIS TOOLS
 
@@ -40,14 +40,14 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 * [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
 * [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)
-* [FlowDroid](http://sseblog.ec-spride.de/tools/flowdroid/)
+* [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 * [Android Decompiler](https://www.pnfsoftware.com/) – not free
 * [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis
 * [Amandroid](http://amandroid.sireum.org/)
 * [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
 * [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
 * [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
-* [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://checkerframework.org/)
+* [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://types.cs.washington.edu/checker-framework/)
 * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 
 ## APP VULNERABILITY SCANNERS
@@ -58,14 +58,14 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 * [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.html)
-* [AppUse](https://appsec-labs.com/AppUse) – custom build for pentesting
-* [Cobradroid](http://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
-* [ViaLab Community Edition](https://viaforensics.com/product-updates/introducing-vialab-community-edition.html)
-* [Droidbox](http://code.google.com/p/droidbox/)
+* [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
+* [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
+* [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/10/introducing-vialab-community-edition/)
+* [Droidbox](https://github.com/pjlantz/droidbox)
 * [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
 * [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
-* [Taintdroid](http://appanalysis.org/download.html) - requires AOSP compilation
-* [Xposed](http://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
+* [Taintdroid](https://appanalysis.org/download.html) - requires AOSP compilation
+* [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
 * [Android tamer](https://androidtamer.com/) - custom image
 * [Droidscope](https://code.google.com/p/decaf-platform/wiki/DroidScope) - custom image for dynamic analysis
@@ -78,19 +78,19 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Aurasium](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
 * [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
 *
-* [Appie](http://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
+* [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 * [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 * [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 * [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis 
 
 ## REVERSE ENGINEERING
 
-1. [Smali/Baksmali](http://code.google.com/p/smali/) – apk decompilation
+1. [Smali/Baksmali](https://github.com/JesusFreke/smali) – apk decompilation
 * [emacs syntax coloring for smali files](https://github.com/strazzere/Emacs-Smali)
 * [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
 * [AndBug](https://github.com/swdunlop/AndBug)
 * [Androguard](https://github.com/androguard/androguard) – powerful, integrates well with other tools
-* [Apktool](http://code.google.com/p/android-apktool/) – really useful for compilation/decompilation (uses smali)
+* [Apktool](https://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
 * [Android Framework for Exploitation](https://github.com/appknox/AFE)
 * [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 * [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate).
@@ -113,7 +113,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid) (no longer available), [fork/mirror](https://github.com/yangbean9/ZjDroid)
 * [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 * [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
-* [Krakatau](https://github.com/Storyyeller/Krakatau)
 
 ## FUZZ TESTING
 
@@ -136,7 +135,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## SAMPLE SOURCES
 
 1. [contagio mini dump](http://contagiominidump.blogspot.com)
-* [Open Source database](http://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
+* [Open Source database](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 * [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
 * [Admire](http://admire.necst.it/)
 * [MalGenome](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
@@ -164,9 +163,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [adb autocomplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
 * [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 * [Opcodes table for quick reference](http://www.xchg.info/corkami/opcodes_tables.pdf)
-* [ExploitMe](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
+* [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 * [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
-* [Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/nowsecure/android-vts) - android-vts scans a device for set of vulnerabilities

@@ -11,7 +11,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 1. [AndroTotal](http://andrototal.org/)
 * [Anubis](http://anubis.iseclab.org/)
 * [CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)
-* [Dexter](https://dexter.bluebox.com/)
+* [Dexter](https://dexter.dexlabs.org/)
 * [Foresafe](http://www.foresafe.com/scan)
 * [Mobile app insight](http://www.mobile-app-insight.org)
 * [Mobile-Sandbox](http://mobile-sandbox.com)

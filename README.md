@@ -65,7 +65,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/) - seems to be dead
 * [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
 * [Taintdroid](https://appanalysis.org/download.html) - requires AOSP compilation
-* [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
+* [Xposed](http://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub based code injection but without any modifications to the binary
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
 * [Android tamer](https://androidtamer.com/) - custom image
 * [Droidscope](https://code.google.com/p/decaf-platform/wiki/DroidScope) - custom image for dynamic analysis

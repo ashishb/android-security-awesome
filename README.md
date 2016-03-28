@@ -162,7 +162,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 * [adb autocomplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
 * [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
-* [Opcodes table for quick reference](http://www.xchg.info/corkami/opcodes_tables.pdf)
+* [Opcodes table for quick reference](http://www.xchg.info/corkami/opcodes_tables.pdf) - seems to be dead
 * [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 * [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy)

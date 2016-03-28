@@ -62,7 +62,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
 * [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/10/introducing-vialab-community-edition/)
 * [Droidbox](https://github.com/pjlantz/droidbox)
-* [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
+* [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/) - seems to be dead
 * [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
 * [Taintdroid](https://appanalysis.org/download.html) - requires AOSP compilation
 * [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary

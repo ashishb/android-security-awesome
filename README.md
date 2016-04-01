@@ -9,11 +9,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## ONLINE ANALYZERS
 
 1. [AndroTotal](http://andrototal.org/)
-* [Anubis](http://anubis.iseclab.org/) [Defunct]
 * [CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)
 * [Dexter](https://dexter.dexlabs.org/)
-* [Mobile app insight](http://www.mobile-app-insight.org) [Defunct]
-* [Mobile-Sandbox](http://mobile-sandbox.com) [Defunct]
 * [Sandroid](http://sanddroid.xjtu.edu.cn/)
 * [Tracedroid](http://tracedroid.few.vu.nl/)
 * [Visual Threat](http://www.visualthreat.com/)
@@ -22,15 +19,18 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 * [NVISO ApkScan](https://apkscan.nviso.be/)
 * [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
-* [Ijiami](http://safe.ijiami.cn/) [Defunct]
-* [Comdroid](http://www.comdroid.org/) - seems to be dead now
 * [Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day
 * [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
 * [Fraunhofer App-ray](https://www.app-ray.com) - not free
-* [Android Sandbox](http://www.androidsandbox.net/) - seems to be dead now
-* [Foresafe](http://www.foresafe.com/scan) - seems to be dead now
-* [Stowaway](http://www.android-permissions.org/) – seems to be dead now
+* ~~[Stowaway](http://www.android-permissions.org/)~~
+* ~~[Anubis](http://anubis.iseclab.org/)~~
+* ~~[Mobile app insight](http://www.mobile-app-insight.org)~~
+* ~~[Mobile-Sandbox](http://mobile-sandbox.com)~~
+* ~~[Ijiami](http://safe.ijiami.cn/)~~
+* ~~[Comdroid](http://www.comdroid.org/)~~
+* ~~[Android Sandbox](http://www.androidsandbox.net/)~~
+* ~~[Foresafe](http://www.foresafe.com/scan)~~
 
 ## STATIC ANALYSIS TOOLS
 

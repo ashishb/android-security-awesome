@@ -169,6 +169,9 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/nowsecure/android-vts) - android-vts scans a device for set of vulnerabilities
 
+## Good Tutorials
+1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.

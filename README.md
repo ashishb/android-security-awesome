@@ -113,6 +113,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid) (no longer available), [fork/mirror](https://github.com/yangbean9/ZjDroid)
 * [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 * [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
+* [Radare2](https://github.com/radare/radare2)
 
 ## FUZZ TESTING
 

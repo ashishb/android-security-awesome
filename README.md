@@ -136,6 +136,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## SAMPLE SOURCES
 
 1. [contagio mini dump](http://contagiominidump.blogspot.com)
+2. [Android malware github repo](https://github.com/ashishb/android-malware)
 * [Open Source database](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 * [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
 * [Admire](http://admire.necst.it/)

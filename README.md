@@ -11,7 +11,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 1. [AndroTotal](http://andrototal.org/)
 * [CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)
 * [Dexter](https://dexter.dexlabs.org/)
-* [Sandroid](http://sanddroid.xjtu.edu.cn/)
+* [SandDroid](http://sanddroid.xjtu.edu.cn/)
 * [Tracedroid](http://tracedroid.few.vu.nl/)
 * [Visual Threat](http://www.visualthreat.com/)
 * [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)

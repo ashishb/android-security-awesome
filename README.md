@@ -52,7 +52,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## APP VULNERABILITY SCANNERS
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
-* [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+3. [Nogotofail](https://github.com/google/nogotofail)
 
 ## DYNAMIC ANALYSIS TOOLS
 

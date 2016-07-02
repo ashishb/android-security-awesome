@@ -7,17 +7,17 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## APP REPACKAGING DETECTORS
 
-* [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
+1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
 
 ## APP VULNERABILITY SCANNERS
 
-* [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+1. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 * [Nogotofail](https://github.com/google/nogotofail)
 * [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 
 ## DYNAMIC ANALYSIS TOOLS
 
-* [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
+1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
 * [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
 * [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.html)
@@ -45,13 +45,13 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## EXPLOITABLE VULNERABILITIES
 
-* [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
+1. [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
 * [Vulnerability Google
    doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 
 ## FUZZ TESTING
 
-* [Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
+1. [Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
 * [Honggfuzz](https://github.com/google/honggfuzz)
 * [IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)
 * [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
@@ -59,7 +59,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## MARKET CRAWLERS
 
-* [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
+1. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
 * [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 * [Google Play Crawler (Java)](https://github.com/Akdeniz/google-play-crawler)
 * [Google Play Crawler (Node) ](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
@@ -67,7 +67,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## ONLINE ANALYZERS
 
-* [AndroTotal](http://andrototal.org/)
+1. [AndroTotal](http://andrototal.org/)
 * ~~[Android Sandbox](http://www.androidsandbox.net/)~~
 * ~~[Anubis](http://anubis.iseclab.org/)~~
 * [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
@@ -93,7 +93,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## REVERSE ENGINEERING
 
-* [AndBug](https://github.com/swdunlop/AndBug)
+1. [AndBug](https://github.com/swdunlop/AndBug)
 * [Androguard](https://github.com/androguard/androguard) – powerful, integrates well with other tools
 * [Android Framework for Exploitation](https://github.com/appknox/AFE)
 * [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate)
@@ -125,7 +125,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## SAMPLE SOURCES
 
-* [Admire](http://admire.necst.it/)
+1. [Admire](http://admire.necst.it/)
 * [Android Malware - Github repo](https://github.com/ashishb/android-malware)
 * [Contagio Mini Dump](http://contagiominidump.blogspot.com)
 * [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
@@ -135,7 +135,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## STATIC ANALYSIS TOOLS
 
-* [Amandroid](http://amandroid.sireum.org/)
+1. [Amandroid](http://amandroid.sireum.org/)
 * [Android Decompiler](https://www.pnfsoftware.com/) – not free
 * [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
 * [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
@@ -151,15 +151,9 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
 * [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://types.cs.washington.edu/checker-framework/)
 
-## READING MATERIAL
-
-* [Android Security (and Not) Internals](http://www.zhauniarovich.com/pubs.html)
-* [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
-* [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
-
 ## MISC TOOLS
 
-* [ADB AutoComplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
+1. [ADB AutoComplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
 * [Android Vulnerability Test Suite](https://github.com/nowsecure/android-vts) - android-vts scans a device for set of vulnerabilities
 * [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
 * [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
@@ -171,8 +165,14 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 * [Smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 
+## READING MATERIAL
+
+1. [Android Security (and Not) Internals](http://www.zhauniarovich.com/pubs.html)
+* [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
+* [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
+
 ## TUTORIALS
-* [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the

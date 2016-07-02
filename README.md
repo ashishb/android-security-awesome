@@ -128,7 +128,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
 
-## Exploitable Vulnerabilties
+## EXPLOITABLE VULNERABILITIES
 
 1. [Vulnerability Google
    doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
@@ -144,7 +144,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [MalGenome](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
 * [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal,not free
 
-## Reading material
+## READING MATERIAL
 
 1. [Android Security (and Not) Internals](http://www.zhauniarovich.com/pubs.html)
 * [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
@@ -172,7 +172,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/nowsecure/android-vts) - android-vts scans a device for set of vulnerabilities
 
-## Good Tutorials
+## GOOD TUTORIALS
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
 # Other Awesome Lists

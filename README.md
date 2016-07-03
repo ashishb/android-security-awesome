@@ -69,7 +69,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Taintdroid](https://appanalysis.org/download.html) - requires AOSP compilation
 * [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
-* [Android tamer](https://androidtamer.com/) - custom image
+* [Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals
 * [Droidscope](https://code.google.com/p/decaf-platform/wiki/DroidScope) - custom image for dynamic analysis
 * [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 * [Mem](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)

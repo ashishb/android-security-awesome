@@ -51,6 +51,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 
 ## APP VULNERABILITY SCANNERS
+
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail](https://github.com/google/nogotofail)
@@ -79,7 +80,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore
 * [Aurasium](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
 * [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
-*
 * [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 * [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 * [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
@@ -125,27 +125,26 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
 * [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
 
-##APP REPACKAGING DETECTORS
+## APP REPACKAGING DETECTORS
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
 
-## Exploitable Vulnerabilties
+## EXPLOITABLE VULNERABILITIES
 
-1. [Vulnerability Google
-   doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
+1. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 * [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
 
 ## SAMPLE SOURCES
 
-1. [contagio mini dump](http://contagiominidump.blogspot.com)
-2. [Android malware github repo](https://github.com/ashishb/android-malware)
+1. [Contagio Mini Dump](http://contagiominidump.blogspot.com)
+2. [Android Malware Github repo](https://github.com/ashishb/android-malware)
 * [Open Source database](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 * [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
 * [Admire](http://admire.necst.it/)
 * [MalGenome](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
 * [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal,not free
 
-## Reading material
+## READING MATERIAL
 
 1. [Android Security (and Not) Internals](http://www.zhauniarovich.com/pubs.html)
 * [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
@@ -173,7 +172,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/nowsecure/android-vts) - android-vts scans a device for set of vulnerabilities
 
-## Good Tutorials
+## TUTORIALS
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
 # Other Awesome Lists

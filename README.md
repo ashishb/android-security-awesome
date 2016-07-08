@@ -38,6 +38,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 * [APKInspector](https://github.com/honeynet/apkinspector/)
 * [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
+* [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
 * [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
 * [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)
 * [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)

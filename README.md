@@ -66,10 +66,10 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
 * [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/10/introducing-vialab-community-edition/)
 * [Droidbox](https://github.com/pjlantz/droidbox)
-* [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
+* [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/) - seems to be dead
 * [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
 * [Taintdroid](https://appanalysis.org/download.html) - requires AOSP compilation
-* [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
+* [Xposed](http://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub based code injection but without any modifications to the binary
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - API Hooking of java methods triggered by any Android application (requires the Substrate Framework)
 * [Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals
 * [Droidscope](https://code.google.com/p/decaf-platform/wiki/DroidScope) - custom image for dynamic analysis
@@ -166,7 +166,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 * [adb autocomplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
 * [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
-* [Opcodes table for quick reference](http://www.xchg.info/corkami/opcodes_tables.pdf)
+* [Opcodes table for quick reference](http://www.xchg.info/corkami/opcodes_tables.pdf) - seems to be dead
 * [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 * [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy)

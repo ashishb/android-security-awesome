@@ -125,6 +125,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Honggfuzz](https://github.com/google/honggfuzz)
 * [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
 * [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
+* [AndroFuzz](https://github.com/jonmetz/AndroFuzz)
 
 ## APP REPACKAGING DETECTORS
 

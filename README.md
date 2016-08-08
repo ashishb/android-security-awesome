@@ -36,6 +36,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
 * [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
+* [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis 
 * [APKInspector](https://github.com/honeynet/apkinspector/)
 * [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 * [DroidLegacy](https://bitbucket.org/srl/droidlegacy)

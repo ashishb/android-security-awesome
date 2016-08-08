@@ -103,8 +103,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google
 * [Dedexer](http://dedexer.sourceforge.net)
 * [Fino](https://github.com/sysdream/fino)
-* [Frida](http://www.frida.re/) - inject javascript to explore applications.
-* [Diff-GUI](https://github.com/antojoseph/diff-gui) - GUI for Frida
+* [Frida](http://www.frida.re/) - inject javascript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
 * [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
 * [IntentSniffer](https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/)
 * [Introspy](https://github.com/iSECPartners/Introspy-Android)

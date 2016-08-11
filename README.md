@@ -86,7 +86,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 * [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 * [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
-* [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis 
+* [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
+* [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
 
 ## REVERSE ENGINEERING
 
@@ -120,7 +121,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 * [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 * [Radare2](https://github.com/radare/radare2)
-* [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
 
 ## FUZZ TESTING
 

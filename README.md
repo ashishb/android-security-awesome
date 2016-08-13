@@ -9,9 +9,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## ONLINE ANALYZERS
 
 1. [AndroTotal](http://andrototal.org/)
-* [CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)
 * [Dexter](https://dexter.dexlabs.org/)
-* [SandDroid](http://sanddroid.xjtu.edu.cn/)
 * [Tracedroid](http://tracedroid.few.vu.nl/)
 * [Visual Threat](http://www.visualthreat.com/)
 * [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
@@ -23,6 +21,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
 * [Fraunhofer App-ray](https://www.app-ray.com) - not free
+* ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
+* ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
 * ~~[Stowaway](http://www.android-permissions.org/)~~
 * ~~[Anubis](http://anubis.iseclab.org/)~~
 * ~~[Mobile app insight](http://www.mobile-app-insight.org)~~

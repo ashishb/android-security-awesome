@@ -69,7 +69,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Droidbox](https://github.com/pjlantz/droidbox)
 * [Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
 * [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
-* [Taintdroid](https://appanalysis.org/download.html) - requires AOSP compilation
 * [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 * [ProbeDroid](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
@@ -88,6 +87,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 * [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 * [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
+* ~~[Taintdroid](https://appanalysis.org/download.html)~~ - requires AOSP compilation
 
 ## REVERSE ENGINEERING
 

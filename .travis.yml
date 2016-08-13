@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md
+  -  awesome_bot --white-list 'http://copperdroid.isg.rhul.ac.uk/copperdroid/','http://sanddroid.xjtu.edu.cn/','http://www.foresafe.com/scan','https://github.com/BaiduSecurityLabs/ZjDroid','https://github.com/yangbean9/ZjDroid','https://appanalysis.org/download.html' --allow-redirect --files README.md

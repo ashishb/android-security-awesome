@@ -61,13 +61,13 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis 
-* [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.html)
+* [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)
 * [Mobile-Security-Framework MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 * [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
 * [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
 * [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/10/introducing-vialab-community-edition/)
 * [Droidbox](https://github.com/pjlantz/droidbox)
-* [Mercury](http://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
+* [Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
 * [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
 * [Taintdroid](https://appanalysis.org/download.html) - requires AOSP compilation
 * [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
@@ -117,7 +117,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [FernFlower](https://github.com/fesh0r/fernflower) - Java decompiler
 * [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
 * [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
-* [ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid) (no longer available), [fork/mirror](https://github.com/yangbean9/ZjDroid)
+* ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 * [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 * [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 * [Radare2](https://github.com/radare/radare2)
@@ -169,7 +169,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 * [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
 * [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
-* [adb autocomplete](https://romannurik-code.googlecode.com/git/bash_completion/adb)
+* [adb autocomplete](https://github.com/mbrubeck/android-completion)
 * [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 * [Opcodes table for quick reference](http://www.xchg.info/corkami/opcodes_tables.pdf)
 * [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice

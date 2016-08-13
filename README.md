@@ -176,7 +176,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
-* [Android Vulnerability Test Suite](https://github.com/nowsecure/android-vts) - android-vts scans a device for set of vulnerabilities
+* [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 
 ## TUTORIALS
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)

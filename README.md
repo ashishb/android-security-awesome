@@ -73,7 +73,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 * [ProbeDroid](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
 * [Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals
-* [Droidscope](https://code.google.com/p/decaf-platform/wiki/DroidScope) - custom image for dynamic analysis
+* [DECAF](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
 * [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 * [Mem](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
 * [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool

@@ -21,6 +21,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
 * [Fraunhofer App-ray](https://www.app-ray.com) - not free
+* [AppCritique](http://appcritique.io/) - Upload your Android APKs and receive comprehensive free security assessments. 
 * ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 * ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
 * ~~[Stowaway](http://www.android-permissions.org/)~~
@@ -50,7 +51,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
 * [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://types.cs.washington.edu/checker-framework/)
 * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
-* [AppCritique](http://appcritique.io/) - Upload Android APKs and receive a full, free vulnerability assessment from our automated engine.
 
 ## APP VULNERABILITY SCANNERS
 

@@ -89,6 +89,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 * [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
 * ~~[Taintdroid](https://appanalysis.org/download.html)~~ - requires AOSP compilation
+* [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes.
 
 ## REVERSE ENGINEERING
 

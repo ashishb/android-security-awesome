@@ -8,7 +8,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## ONLINE ANALYZERS
 
-1. [AndroTotal](http://andrototal.org/)
+1. [Appknox](https://appknox.com)
+* [AndroTotal](http://andrototal.org/)
 * [Dexter](https://dexter.dexlabs.org/)
 * [Tracedroid](http://tracedroid.few.vu.nl/)
 * [Visual Threat](http://www.visualthreat.com/)
@@ -35,7 +36,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## STATIC ANALYSIS TOOLS
 
-1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
+1. [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
+* [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
 * [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 * [APKInspector](https://github.com/honeynet/apkinspector/)
 * [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)

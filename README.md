@@ -36,8 +36,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## STATIC ANALYSIS TOOLS
 
-1. [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
-* [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
+1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
 * [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 * [APKInspector](https://github.com/honeynet/apkinspector/)
 * [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
@@ -56,9 +55,10 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## APP VULNERABILITY SCANNERS
 
-1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
-2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
-3. [Nogotofail](https://github.com/google/nogotofail)
+1. [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
+2. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
+3. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+4. [Nogotofail](https://github.com/google/nogotofail)
 
 ## DYNAMIC ANALYSIS TOOLS
 

@@ -8,13 +8,13 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## ONLINE ANALYZERS
 
-1. [Appknox](https://appknox.com)
-* [AndroTotal](http://andrototal.org/)
+1. [AndroTotal](http://andrototal.org/)
 * [Dexter](https://dexter.dexlabs.org/)
 * [Tracedroid](http://tracedroid.few.vu.nl/)
 * [Visual Threat](http://www.visualthreat.com/)
 * [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 * [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
+* [Appknox](https://appknox.com) - not free
 * [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 * [NVISO ApkScan](https://apkscan.nviso.be/)
 * [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)

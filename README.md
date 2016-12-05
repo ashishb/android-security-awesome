@@ -14,6 +14,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Visual Threat](http://www.visualthreat.com/)
 * [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 * [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
+* [Appknox](https://appknox.com) - not free
 * [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 * [NVISO ApkScan](https://apkscan.nviso.be/)
 * [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
@@ -55,8 +56,9 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## APP VULNERABILITY SCANNERS
 
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
-2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
-3. [Nogotofail](https://github.com/google/nogotofail)
+* [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+* [Nogotofail](https://github.com/google/nogotofail)
+* [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
 
 ## DYNAMIC ANALYSIS TOOLS
 

@@ -55,10 +55,10 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## APP VULNERABILITY SCANNERS
 
-1. [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
-2. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
-3. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
-4. [Nogotofail](https://github.com/google/nogotofail)
+1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
+* [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
+* [Nogotofail](https://github.com/google/nogotofail)
+* [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
 
 ## DYNAMIC ANALYSIS TOOLS
 

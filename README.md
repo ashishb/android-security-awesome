@@ -59,6 +59,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 * [Nogotofail](https://github.com/google/nogotofail)
 * [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
+* [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
 ## DYNAMIC ANALYSIS TOOLS
 

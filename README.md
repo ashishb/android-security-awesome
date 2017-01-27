@@ -186,6 +186,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## TUTORIALS
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+2. [New in Android M and N: Runtime Permissions](http://blog.ostorlab.co/2016/05/new-in-android-m-and-n-runtime.html)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the

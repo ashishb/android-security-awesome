@@ -22,7 +22,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
 * [Fraunhofer App-ray](https://www.app-ray.com) - not free
-* [AppCritique](http://appcritique.io/) - Upload your Android APKs and receive comprehensive free security assessments. 
+* [AppCritique](http://appcritique.io/) - Upload your Android APKs and receive comprehensive free security assessments.
 * ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 * ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
 * ~~[Stowaway](http://www.android-permissions.org/)~~
@@ -64,7 +64,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## DYNAMIC ANALYSIS TOOLS
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
-2. [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis 
+2. [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 * [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)
 * [Mobile-Security-Framework MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 * [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
@@ -72,8 +72,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)
 * [Droidbox](https://github.com/pjlantz/droidbox)
 * [Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
-* [Drozer](https://labs.mwrinfosecurity.com/tools/drozer/)
-* [Xposed](https://forum.xda-developers.com/showthread.php?t=1574401) - equivalent of doing Stub based code injection but without any modifications to the binary
+* [Drozer](https://github.com/mwrlabs/drozer)
+* [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub based code injection but without any modifications to the binary
 * [Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
 * [Android Hooker](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 * [ProbeDroid](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation

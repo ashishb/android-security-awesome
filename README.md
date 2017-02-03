@@ -21,7 +21,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day
 * [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
-* [Fraunhofer App-ray](https://www.app-ray.com) - not free
+* [Fraunhofer App-ray](http://www.app-ray.co) - not free
 * [AppCritique](http://appcritique.io/) - Upload your Android APKs and receive comprehensive free security assessments.
 * ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 * ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
@@ -71,7 +71,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
 * [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)
 * [Droidbox](https://github.com/pjlantz/droidbox)
-* [Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)
+* ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 * [Drozer](https://github.com/mwrlabs/drozer)
 * [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub based code injection but without any modifications to the binary
 * [Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)
@@ -151,10 +151,10 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 1. [Contagio Mini Dump](http://contagiominidump.blogspot.com)
 2. [Android Malware Github repo](https://github.com/ashishb/android-malware)
 * [Open Source database](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
-* [Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)
 * [Admire](http://admire.necst.it/)
 * [MalGenome](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
 * [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal,not free
+* ~~[Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)~~
 
 ## READING MATERIAL
 

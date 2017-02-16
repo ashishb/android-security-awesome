@@ -3,10 +3,15 @@ android-security-awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome
 
 A collection of android security related resources.
 
-A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
+1. [TOOLS](#tools)
+2. [ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS](#academic)
+3. [EXPLOITS / VULNERABILITIES / BUGS](#exploits)
 
+----
+#<a name="tools"></a>1- TOOLS
 
-## ONLINE ANALYZERS
+Online Analyzers
+----
 
 1. [AndroTotal](http://andrototal.org/)
 * [Dexter](https://dexter.dexlabs.org/)
@@ -34,7 +39,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * ~~[Android Sandbox](http://www.androidsandbox.net/)~~
 * ~~[Foresafe](http://www.foresafe.com/scan)~~
 
-## STATIC ANALYSIS TOOLS
+Static Analysis Tools
+----
 
 1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
 * [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
@@ -53,7 +59,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://types.cs.washington.edu/checker-framework/)
 * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 
-## APP VULNERABILITY SCANNERS
+App Vulnerability Scanners
+----
 
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 * [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
@@ -61,7 +68,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
 * [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 
-## DYNAMIC ANALYSIS TOOLS
+Dynamic Analysis Tools
+----
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
@@ -95,7 +103,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes.
 * ~~[Taintdroid](https://appanalysis.org/download.html)~~ - requires AOSP compilation
 
-## REVERSE ENGINEERING
+Reverse Engineering
+----
 
 1. [Smali/Baksmali](https://github.com/JesusFreke/smali) – apk decompilation
 * [emacs syntax coloring for smali files](https://github.com/strazzere/Emacs-Smali)
@@ -128,7 +137,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 * [Radare2](https://github.com/radare/radare2)
 
-## FUZZ TESTING
+Fuzz Testing
+----
 
 1. [IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)
 * [Radamsa Fuzzer](https://github.com/anestisb/radamsa-android)
@@ -137,11 +147,13 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
 * [AndroFuzz](https://github.com/jonmetz/AndroFuzz)
 
-## APP REPACKAGING DETECTORS
+App Repackaging Detectors
+----
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
 
-## SAMPLE SOURCES
+Sample Sources
+----
 
 1. [Contagio Mini Dump](http://contagiominidump.blogspot.com)
 2. [Android Malware Github repo](https://github.com/ashishb/android-malware)
@@ -151,13 +163,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal,not free
 * ~~[Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)~~
 
-## READING MATERIAL
-
-1. [Android Security (and Not) Internals](http://www.zhauniarovich.com/pubs.html)
-* [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
-* [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
-
-## MARKET CRAWLERS
+Market Crawlers
+----
 
 1. [Google play crawler (Java)](https://github.com/Akdeniz/google-play-crawler)
 * [Google play crawler (Python)](https://github.com/egirault/googleplay-api)
@@ -165,7 +172,8 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 * [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
 
-## MISC TOOLS
+Misc Tools
+----
 
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 * [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
@@ -179,25 +187,48 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 
-## TUTORIALS
+----
+
+#<a name="academic"></a>2- ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS
+
+Android Security Researchers
+----
+1. [Yury Zhauniarovich](http://www.zhauniarovich.com)
+
+Research Papers
+----
+1. [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
+* [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
+
+Books
+----
+1. [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
+
+Tutorials
+----
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
-#EXPLOITS / VULNERABILITIES / BUGS
+
+----
+
+#<a name="exploits"></a>3- EXPLOITS / VULNERABILITIES / BUGS
 
 List
 ----
 1. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 * [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
 * [Android Security Bulletins](https://source.android.com/security/bulletin/)
-* [Android reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
+* [Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
 
 Bounty Programs
 ----
-1. [Android's Security Reward Program](https://www.google.com/about/appsecurity/android-rewards/)
+1. [Android Security Reward Program](https://www.google.com/about/appsecurity/android-rewards/)
 
 How to report
 ----
 1. [Android - reporting security issues](https://source.android.com/security/overview/updates-resources.html#report-issues)
+
+----
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the

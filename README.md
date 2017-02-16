@@ -182,7 +182,7 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 ## TUTORIALS
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
-#EXPLOITS / VULNERABILITIES / BUGS
+# EXPLOITS / VULNERABILITIES / BUGS
 
 List
 ----
@@ -190,6 +190,7 @@ List
 * [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
 * [Android Security Bulletins](https://source.android.com/security/bulletin/)
 * [Android reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
+* [Android Devices Security Patch Status](https://kb.androidtamer.com/Device_Security_Patch_tracker/)
 
 Bounty Programs
 ----

@@ -141,11 +141,6 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
 
-## EXPLOITABLE VULNERABILITIES
-
-1. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
-* [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
-
 ## SAMPLE SOURCES
 
 1. [Contagio Mini Dump](http://contagiominidump.blogspot.com)
@@ -186,6 +181,23 @@ A lot of work is happening in academia and industry on tools to perform dynamic 
 
 ## TUTORIALS
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+
+#EXPLOITS / VULNERABILITIES / BUGS
+
+List
+----
+1. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
+* [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
+* [Android Security Bulletins](https://source.android.com/security/bulletin/)
+* [Android reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
+
+Bounty Programs
+----
+1. [Android's Security Reward Program](https://www.google.com/about/appsecurity/android-rewards/)
+
+How to report
+----
+1. [Android - reporting security issues](https://source.android.com/security/overview/updates-resources.html#report-issues)
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the

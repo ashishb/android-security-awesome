@@ -219,6 +219,7 @@ List
 * [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
 * [Android Security Bulletins](https://source.android.com/security/bulletin/)
 * [Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
+* [Android Devices Security Patch Status](https://kb.androidtamer.com/Device_Security_Patch_tracker/)
 
 Bounty Programs
 ----

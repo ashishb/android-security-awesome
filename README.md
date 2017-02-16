@@ -208,7 +208,6 @@ Tutorials
 ----
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
-
 ----
 
 #<a name="exploits"></a>3- EXPLOITS / VULNERABILITIES / BUGS

@@ -8,7 +8,7 @@ A collection of android security related resources.
 3. [EXPLOITS / VULNERABILITIES / BUGS](#exploits)
 
 ----
-#<a name="tools"></a>1- TOOLS
+#<a name="tools"></a>TOOLS
 
 Online Analyzers
 ----
@@ -189,11 +189,7 @@ Misc Tools
 
 ----
 
-#<a name="academic"></a>2- ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS
-
-Android Security Researchers
-----
-1. [Yury Zhauniarovich](http://www.zhauniarovich.com)
+#<a name="academic"></a>ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS
 
 Research Papers
 ----
@@ -210,7 +206,7 @@ Tutorials
 
 ----
 
-#<a name="exploits"></a>3- EXPLOITS / VULNERABILITIES / BUGS
+#<a name="exploits"></a>EXPLOITS / VULNERABILITIES / BUGS
 
 List
 ----

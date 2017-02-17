@@ -210,11 +210,12 @@ Tutorials
 
 List
 ----
-1. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
-* [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
-* [Android Security Bulletins](https://source.android.com/security/bulletin/)
+
+1. [Android Security Bulletins](https://source.android.com/security/bulletin/)
 * [Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
 * [Android Devices Security Patch Status](https://kb.androidtamer.com/Device_Security_Patch_tracker/)
+* [AOSP - Issue tracker](https://code.google.com/p/android/issues/list?can=2&q=priority=Critical&sort=-opened)
+* ~~[Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)~~
 
 Bounty Programs
 ----

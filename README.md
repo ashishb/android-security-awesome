@@ -204,9 +204,10 @@ Researchers
 ----
 1. [Android Security Acknowledgements](https://source.android.com/security/overview/acknowledgements.html)
 
-Tutorials
+Others
 ----
-1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) 
+* [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
 ----
 
@@ -219,6 +220,7 @@ List
 * [Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
 * [Android Devices Security Patch Status](https://kb.androidtamer.com/Device_Security_Patch_tracker/)
 * [AOSP - Issue tracker](https://code.google.com/p/android/issues/list?can=2&q=priority=Critical&sort=-opened)
+* [OWASP Mobile Top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 * ~~[Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)~~
 
 Bounty Programs

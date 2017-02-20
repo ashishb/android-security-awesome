@@ -200,6 +200,10 @@ Books
 ----
 1. [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
 
+Researchers
+----
+1. [Android Security Acknowledgements](https://source.android.com/security/overview/acknowledgements.html)
+
 Tutorials
 ----
 1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)

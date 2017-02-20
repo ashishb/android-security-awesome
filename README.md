@@ -222,7 +222,7 @@ List
 * [Android Devices Security Patch Status](https://kb.androidtamer.com/Device_Security_Patch_tracker/)
 * [AOSP - Issue tracker](https://code.google.com/p/android/issues/list?can=2&q=priority=Critical&sort=-opened)
 * [OWASP Mobile Top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
-* [Exploit Database](https://www.exploit-db.com/search/?action=search)
+* [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
 * ~~[Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)~~
 
 Bounty Programs

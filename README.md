@@ -152,17 +152,6 @@ App Repackaging Detectors
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
 
-Sample Sources
-----
-
-1. [Contagio Mini Dump](http://contagiominidump.blogspot.com)
-2. [Android Malware Github repo](https://github.com/ashishb/android-malware)
-* [Open Source database](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
-* [Admire](http://admire.necst.it/)
-* [MalGenome](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
-* [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal,not free
-* ~~[Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)~~
-
 Market Crawlers
 ----
 
@@ -226,6 +215,19 @@ List
 * [OWASP Mobile Top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 * [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
 * [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
+
+Malware
+----
+
+1. [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
+* [Android Malware Github repo](https://github.com/ashishb/android-malware)
+* [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
+* [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
+* [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
+* [Admire](http://admire.necst.it/)
+* ~~[Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)~~
+
+
 
 Bounty Programs
 ----

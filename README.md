@@ -195,6 +195,7 @@ Researchers
 1. [Android Security Acknowledgements](https://source.android.com/security/overview/acknowledgements.html)
 * [Zhuoqing Morley Mao](http://web.eecs.umich.edu/~zmao/pubs.html)
 * [Yury Zhauniarovich](http://www.zhauniarovich.com/pubs.html)
+* [Xiao Zhang](https://scholar.google.com/citations?user=Wh3ExloAAAAJ&hl=en)
 
 Others
 ----

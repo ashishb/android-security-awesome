@@ -152,17 +152,6 @@ App Repackaging Detectors
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detection of repackaged Android applications based on app resources hash comparison.
 
-Sample Sources
-----
-
-1. [Contagio Mini Dump](http://contagiominidump.blogspot.com)
-2. [Android Malware Github repo](https://github.com/ashishb/android-malware)
-* [Open Source database](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
-* [Admire](http://admire.necst.it/)
-* [MalGenome](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
-* [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal,not free
-* ~~[Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)~~
-
 Market Crawlers
 ----
 
@@ -193,16 +182,24 @@ Misc Tools
 
 Research Papers
 ----
-1. [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
+1. [Exploit Database](https://www.exploit-db.com/papers/) 
+* [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
 * [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 
 Books
 ----
 1. [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
 
-Tutorials
+Researchers
 ----
-1. [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
+1. [Android Security Acknowledgements](https://source.android.com/security/overview/acknowledgements.html)
+* [Zhuoqing Morley Mao](http://web.eecs.umich.edu/~zmao/pubs.html)
+* [Yury Zhauniarovich](http://www.zhauniarovich.com/pubs.html)
+
+Others
+----
+1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) 
+* [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 
 ----
 
@@ -210,11 +207,27 @@ Tutorials
 
 List
 ----
-1. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
-* [Root Exploits (from Drozer issue #56)](https://github.com/mwrlabs/drozer/issues/56)
-* [Android Security Bulletins](https://source.android.com/security/bulletin/)
+
+1. [Android Security Bulletins](https://source.android.com/security/bulletin/)
 * [Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
 * [Android Devices Security Patch Status](https://kb.androidtamer.com/Device_Security_Patch_tracker/)
+* [AOSP - Issue tracker](https://code.google.com/p/android/issues/list?can=2&q=priority=Critical&sort=-opened)
+* [OWASP Mobile Top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
+* [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
+* [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
+
+Malware
+----
+
+1. [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
+* [Android Malware Github repo](https://github.com/ashishb/android-malware)
+* [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
+* [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
+* [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
+* [Admire](http://admire.necst.it/)
+* ~~[Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)~~
+
+
 
 Bounty Programs
 ----

@@ -190,12 +190,6 @@ Books
 ----
 1. [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
 
-Researchers
-----
-1. [Android Security Acknowledgements](https://source.android.com/security/overview/acknowledgements.html)
-* [Zhuoqing Morley Mao](http://web.eecs.umich.edu/~zmao/pubs.html)
-* [Yury Zhauniarovich](http://www.zhauniarovich.com/pubs.html)
-
 Others
 ----
 1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) 

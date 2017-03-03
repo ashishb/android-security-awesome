@@ -190,6 +190,10 @@ Books
 ----
 1. [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
 
+Presentations
+----
+1. [Google Security Conferences Presentations](https://www.google.com/about/appsecurity/research/presentations/)
+
 Others
 ----
 1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) 

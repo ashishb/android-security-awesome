@@ -213,7 +213,8 @@ List
 Malware
 ----
 
-1. [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
+1. [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://static.googleusercontent.com/media/source.android.com/en//security/reports/Google_Android_Security_PHA_classifications.pdf)
+* [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 * [Android Malware Github repo](https://github.com/ashishb/android-malware)
 * [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
 * [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)

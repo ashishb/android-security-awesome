@@ -186,6 +186,11 @@ Research Papers
 * [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
 * [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 
+Conferences
+----
+1. [Android Security Symposium](https://usmile.at/symposium)
+
+
 Books
 ----
 1. [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)

@@ -190,10 +190,6 @@ Books
 ----
 1. [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
 
-Presentations
-----
-1. [Google Security Conferences Presentations](https://www.google.com/about/appsecurity/research/presentations/)
-
 Others
 ----
 1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) 
@@ -213,12 +209,12 @@ List
 * [OWASP Mobile Top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 * [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
 * [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
+* [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://static.googleusercontent.com/media/source.android.com/en//security/reports/Google_Android_Security_PHA_classifications.pdf)
+
 
 Malware
 ----
-
-1. [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://static.googleusercontent.com/media/source.android.com/en//security/reports/Google_Android_Security_PHA_classifications.pdf)
-* [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
+1. [androguard - Database Android Malwares wiki](https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares)
 * [Android Malware Github repo](https://github.com/ashishb/android-malware)
 * [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
 * [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)

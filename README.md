@@ -182,9 +182,14 @@ Misc Tools
 
 Research Papers
 ----
-1. [Exploit Database](https://www.exploit-db.com/papers/) 
-* [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
+1. [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
 * [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
+
+[searching required]
+
+1. [Exploit Database](https://www.exploit-db.com/papers/)
+* [Research at Google](https://research.google.com/pubs/SecurityPrivacyandAbusePrevention.html)
+
 
 Conferences
 ----
@@ -208,14 +213,13 @@ List
 ----
 
 1. [Android Security Bulletins](https://source.android.com/security/bulletin/)
-* [Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
+* [CVE - Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
 * [Android Devices Security Patch Status](https://kb.androidtamer.com/Device_Security_Patch_tracker/)
 * [AOSP - Issue tracker](https://code.google.com/p/android/issues/list?can=2&q=priority=Critical&sort=-opened)
 * [OWASP Mobile Top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 * [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
 * [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 * [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://static.googleusercontent.com/media/source.android.com/en//security/reports/Google_Android_Security_PHA_classifications.pdf)
-
 
 Malware
 ----
@@ -226,8 +230,6 @@ Malware
 * [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
 * [Admire](http://admire.necst.it/)
 * ~~[Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)~~
-
-
 
 Bounty Programs
 ----

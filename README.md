@@ -58,6 +58,7 @@ Static Analysis Tools
 * [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
 * [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://types.cs.washington.edu/checker-framework/)
 * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
+* [DroidRA](https://github.com/serval-snt-uni-lu/DroidRA)
 
 App Vulnerability Scanners
 ----

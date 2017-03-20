@@ -8,7 +8,7 @@ A collection of android security related resources.
 3. [EXPLOITS / VULNERABILITIES / BUGS](#exploits)
 
 ----
-#<a name="tools"></a>TOOLS
+# <a name="tools"></a>TOOLS
 
 Online Analyzers
 ----
@@ -179,7 +179,7 @@ Misc Tools
 
 ----
 
-#<a name="academic"></a>ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS
+# <a name="academic"></a>ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS
 
 Research Papers
 ----
@@ -198,7 +198,7 @@ Others
 
 ----
 
-#<a name="exploits"></a>EXPLOITS / VULNERABILITIES / BUGS
+# <a name="exploits"></a>EXPLOITS / VULNERABILITIES / BUGS
 
 List
 ----

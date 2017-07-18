@@ -19,15 +19,15 @@ Online Analyzers
 * [Visual Threat](http://www.visualthreat.com/)
 * [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 * [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
-* [Appknox](https://appknox.com) - not free
+* [Appknox](https://www.appknox.com/) - not free
 * [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 * [NVISO ApkScan](https://apkscan.nviso.be/)
-* [AVC UnDroid](http://www.av-comparatives.org/avc-analyzer/)
+* [AVC UnDroid](http://undroid.av-comparatives.info/)
 * [Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day
 * [habo](https://habo.qq.com/) 10/day
 * [Virustotal](https://www.virustotal.com/)-max 128MB
-* [Fraunhofer App-ray](http://www.app-ray.co) - not free
-* [AppCritique](http://appcritique.io/) - Upload your Android APKs and receive comprehensive free security assessments.
+* [Fraunhofer App-ray](http://app-ray.co/) - not free
+* [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
 * ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 * ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
 * ~~[Stowaway](http://www.android-permissions.org/)~~
@@ -56,7 +56,7 @@ Static Analysis Tools
 * [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
 * [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
 * [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
-* [SPARTA](http://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](http://types.cs.washington.edu/checker-framework/)
+* [SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)
 * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 * [DroidRA](https://github.com/serval-snt-uni-lu/DroidRA)
 
@@ -75,7 +75,7 @@ Dynamic Analysis Tools
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 * [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)
-* [Mobile-Security-Framework MobSF](https://github.com/ajinabraham/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
+* [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 * [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
 * [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
 * [ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)
@@ -121,11 +121,11 @@ Reverse Engineering
 * [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google
 * [Dedexer](http://dedexer.sourceforge.net)
 * [Fino](https://github.com/sysdream/fino)
-* [Frida](http://www.frida.re/) - inject javascript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
+* [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
 * [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
 * [IntentSniffer](https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/)
 * [Introspy](https://github.com/iSECPartners/Introspy-Android)
-* [Jad]( http://varaneckas.com/jad/) - Java decompiler
+* [Jad]( https://varaneckas.com/jad/) - Java decompiler
 * [JD-GUI](https://github.com/java-decompiler/jd-gui) - Java decompiler
 * [CFR](http://www.benf.org/other/cfr/) - Java decompiler
 * [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler
@@ -170,7 +170,7 @@ Misc Tools
 * [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 * [adb autocomplete](https://github.com/mbrubeck/android-completion)
 * [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
-* [Opcodes table for quick reference](http://www.xchg.info/corkami/opcodes_tables.pdf)
+* [Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)
 * [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 * [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy)
@@ -211,7 +211,7 @@ List
 * [OWASP Mobile Top 10 2016](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 * [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
 * [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
-* [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://static.googleusercontent.com/media/source.android.com/en//security/reports/Google_Android_Security_PHA_classifications.pdf)
+* [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://source.android.com/security/reports/Google_Android_Security_PHA_classifications.pdf)
 
 
 Malware

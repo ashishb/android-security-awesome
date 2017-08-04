@@ -196,6 +196,7 @@ Others
 1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) 
 * [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 * [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
+* [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 
 ----
 

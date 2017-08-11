@@ -176,7 +176,7 @@ Misc Tools
 * [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
-
+* [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
 ----
 
 # <a name="academic"></a>ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS

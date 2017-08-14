@@ -177,6 +177,7 @@ Misc Tools
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 * [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
+* [RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with online demo available.
 ----
 
 # <a name="academic"></a>ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS

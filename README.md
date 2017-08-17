@@ -224,7 +224,7 @@ Malware
 * [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 * [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
 * [Admire](http://admire.necst.it/)
-* ~~[Drebin](http://user.informatik.uni-goettingen.de/~darp/drebin/)~~
+* [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
 
 
 

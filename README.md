@@ -61,6 +61,7 @@ Static Analysis Tools
 * [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 * [DroidRA](https://github.com/serval-snt-uni-lu/DroidRA)
 * [RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with online demo available.
+* [SUPER](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 
 App Vulnerability Scanners
 ----

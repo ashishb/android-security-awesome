@@ -62,6 +62,7 @@ Static Analysis Tools
 * [DroidRA](https://github.com/serval-snt-uni-lu/DroidRA)
 * [RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with online demo available.
 * [SUPER](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
+* [ClassyShark](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important infos.
 
 App Vulnerability Scanners
 ----

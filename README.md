@@ -198,6 +198,7 @@ Others
 * [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 * [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 * [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
+* [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ----
 

@@ -164,6 +164,7 @@ Market Crawlers
 * [Google play crawler (Node) ](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
 * [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 * [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
+* [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
 
 Misc Tools
 ----
@@ -180,7 +181,7 @@ Misc Tools
 * [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 * [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 * [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
-* [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
+
 ----
 
 # <a name="academic"></a>ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS

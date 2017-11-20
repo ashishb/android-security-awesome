@@ -14,16 +14,13 @@ Online Analyzers
 ----
 
 1. [AndroTotal](http://andrototal.org/)
-2. [Dexter](https://dexter.dexlabs.org/)
-3. [Tracedroid](http://tracedroid.few.vu.nl/)
+2. [Tracedroid](http://tracedroid.few.vu.nl/)
 4. [Visual Threat](http://www.visualthreat.com/)
 5. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
-6. [MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)
 7. [Appknox](https://www.appknox.com/) - not free
 8. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 9. [NVISO ApkScan](https://apkscan.nviso.be/)
 10.[AVC UnDroid](http://undroid.av-comparatives.info/)
-11.[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day
 12.[habo](https://habo.qq.com/) 10/day
 13.[Virustotal](https://www.virustotal.com/)-max 128MB
 14.[Fraunhofer App-ray](http://app-ray.co/) - not free
@@ -39,6 +36,9 @@ Online Analyzers
 24. ~~[Comdroid](http://www.comdroid.org/)~~
 25. ~~[Android Sandbox](http://www.androidsandbox.net/)~~
 26. ~~[Foresafe](http://www.foresafe.com/scan)~~
+27. ~~[Dexter](https://dexter.dexlabs.org/)~~
+28. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
+29. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
  
 Static Analysis Tools
 ----

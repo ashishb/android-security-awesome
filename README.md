@@ -238,6 +238,7 @@ Bounty Programs
 How to report
 ----
 1. [Android - reporting security issues](https://source.android.com/security/overview/updates-resources.html#report-issues)
+2. [Android Reports and Resources](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
 
 ----
 

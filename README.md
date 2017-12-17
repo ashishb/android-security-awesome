@@ -201,6 +201,7 @@ Others
 3. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 4. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 5. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
+6. [Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room which contains well categorised technical reading material about mobile penetration testing, mobile malware, mobile forensics and all kind of mobile security related topics
 
 ----
 

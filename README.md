@@ -165,6 +165,7 @@ Market Crawlers
 3. [Google play crawler (Node) ](https://github.com/dweinstein/node-google-play) - get app details and download apps from official Google Play Store.
 4. [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 5. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
+6. [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
 
 Misc Tools
 ----

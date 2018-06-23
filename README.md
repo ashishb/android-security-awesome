@@ -15,18 +15,18 @@ Online Analyzers
 
 1. [AndroTotal](http://andrototal.org/)
 2. [Tracedroid](http://tracedroid.few.vu.nl/)
-4. [Visual Threat](http://www.visualthreat.com/)
-5. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
-7. [Appknox](https://www.appknox.com/) - not free
-8. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
-9. [NVISO ApkScan](https://apkscan.nviso.be/)
-10.[AVC UnDroid](http://undroid.av-comparatives.info/)
-12.[habo](https://habo.qq.com/) 10/day
-13.[Virustotal](https://www.virustotal.com/)-max 128MB
-14.[Fraunhofer App-ray](http://app-ray.co/) - not free
-15.[AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
-16.[NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
-17. ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
+3. [Visual Threat](http://www.visualthreat.com/)
+4. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
+5. [Appknox](https://www.appknox.com/) - not free
+6. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
+7. [NVISO ApkScan](https://apkscan.nviso.be/)
+8. [AVC UnDroid](http://undroid.av-comparatives.info/)
+9. [habo](https://habo.qq.com/) - 10/day
+10. [Virustotal](https://www.virustotal.com/) - max 128MB
+11. [Fraunhofer App-ray](http://app-ray.co/) - not free
+12. [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
+13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
+14.  ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 18. ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
 19. ~~[Stowaway](http://www.android-permissions.org/)~~
 20. ~~[Anubis](http://anubis.iseclab.org/)~~

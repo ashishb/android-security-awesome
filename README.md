@@ -136,7 +136,7 @@ Reverse Engineering
 23. [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler
 24. [FernFlower](https://github.com/fesh0r/fernflower) - Java decompiler
 25. [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
-26. [Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)
+26. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 27. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 28. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 29. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)

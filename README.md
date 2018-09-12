@@ -39,7 +39,7 @@ Online Analyzers
 27. ~~[Dexter](https://dexter.dexlabs.org/)~~
 28. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
 29. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
-30. [AMAaaS] Android Malware Analysis as a Service. A baremetal service features static and dynamic analysis for Android applications. A product of MalwarePot (https://malwarepot.com/index.php/AMAaaS) - Free.
+30. [AMAaaS] (https://amaaas.com) Android Malware Analysis as a Service. A baremetal service features static and dynamic analysis for Android applications. A product of MalwarePot (https://malwarepot.com/index.php/AMAaaS) - Free.
  
 Static Analysis Tools
 ----

@@ -180,10 +180,11 @@ Misc Tools
 6. [Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)
 7. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
 8. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
-9. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
-10. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
-11. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
-12. [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
+9. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2) - for practice
+10. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+11. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
+12. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
+13. [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
 ----
 
 # <a name="academic"></a>ACADEMIC / RESEARCH / PUBLICATIONS / BOOKS
@@ -233,11 +234,6 @@ Malware
 5. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
 6. [Admire](http://admire.necst.it/)
 7. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
-
-Vulnerable applications
-----
-1. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
-
 
 Bounty Programs
 ----

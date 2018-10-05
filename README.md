@@ -142,6 +142,7 @@ Reverse Engineering
 28. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 29. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 30. [Radare2](https://github.com/radare/radare2)
+31. [Jadx](https://github.com/skylot/jadx)
 
 Fuzz Testing
 ----

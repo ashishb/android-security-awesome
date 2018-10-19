@@ -234,8 +234,8 @@ Malware
 3. [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purpose.
 4. [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 5. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
-6. [Admire](http://admire.necst.it/)
-7. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
+6. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
+7. ~~[Admire](http://admire.necst.it/)~~
 
 Bounty Programs
 ----

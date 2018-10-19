@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-    -  bash run_awesome_bot.sh
+  - bash run_awesome_bot.sh

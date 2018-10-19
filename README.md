@@ -44,7 +44,7 @@ Online Analyzers
 Static Analysis Tools
 ----
 
-1.  [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developped by an Android application.
+1.  [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
 2. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 3. [APKInspector](https://github.com/honeynet/apkinspector/)
 4. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
@@ -59,7 +59,7 @@ Static Analysis Tools
 13. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
 14. [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
 15. [SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)
-16. [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
+16. [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
 17. [DroidRA](https://github.com/serval-snt-uni-lu/DroidRA)
 18. [RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with online demo available.
 19. [SUPER](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
@@ -102,7 +102,7 @@ Dynamic Analysis Tools
 22. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore
 23. [Aurasium](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor.
 24. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
-25. [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment.It is completely portable and can be carried on USB stick or smartphone.This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
+25. [Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on USB stick or smartphone. This is a one stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.
 26. [StaDynA](https://github.com/zyrikby/StaDynA) - a system supporting security app analysis in the presence of dynamic code update features (dynamic class loading and reflection). This tool combines static and dynamic analysis of Android applications in order to reveal the hidden/updated behavior and extend static analysis results with this information.
 27. [DroidAnalytics](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis

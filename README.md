@@ -64,6 +64,19 @@ Static Analysis Tools
 19. [SUPER](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
 20. [ClassyShark](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important infos.
 
+Static JAVA Code Analysis Tools
+----
+
+1.  [Visual Code Grepper](https://sourceforge.net/projects/visualcodegrepp/) - Analyse Java code and identify bad/insecure code
+2. [Findbugs](http://findbugs.sourceforge.net/) - static analysis to look for bugs in Java code.
+3. [PMD Source Code Analyzer](https://pmd.github.io/)
+4. [Testability-explorer](https://code.google.com/archive/p/testability-explorer/)
+5. [crap4j](http://www.crap4j.org/)
+6. [Sonarqube](https://www.sonarqube.org/)
+7. [Checkstyle](http://checkstyle.sourceforge.net/)
+8. [PMD](https://sourceforge.net/projects/pmd/)
+9. [Codacy](https://www.codacy.com/) – community and enterprise supported
+
 App Vulnerability Scanners
 ----
 

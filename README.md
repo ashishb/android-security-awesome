@@ -145,6 +145,7 @@ Reverse Engineering
 29. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 30. [Radare2](https://github.com/radare/radare2)
 31. [Jadx](https://github.com/skylot/jadx)
+32. [Dwarf](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
 
 Fuzz Testing
 ----

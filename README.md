@@ -242,16 +242,10 @@ Bounty Programs
 ----
 1. [Android Security Reward Program](https://www.google.com/about/appsecurity/android-rewards/)
 
-How to report
+How to report Security issues
 ----
 1. [Android - reporting security issues](https://source.android.com/security/overview/updates-resources.html#report-issues)
 2. [Android Reports and Resources](https://github.com/B3nac/Android-Reports-and-Resources) - List of Android Hackerone disclosed reports and other resources
-
-----
-
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the
-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 Your contributions are always welcome!

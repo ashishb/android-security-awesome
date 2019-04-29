@@ -11,7 +11,8 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'http://www.mobile-app-insight.org','http://anubis.iseclab.org/',\
 'http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip',\
 'habo.qq.com','www.fasteque.com','http://admire.necst.it/','tracedroid.few.vu.nl',\
-'http://appanalysis.org','http://dunkelheit.com.br','https://mobile-security.zeef.com'
+'http://appanalysis.org','http://dunkelheit.com.br','https://mobile-security.zeef.com',\
+'https://redmine.honeynet.org/projects/are/wiki'
 
 FLAKY_URLS='http://safe.ijiami.cn/'
 SRC_FILE=README.md

@@ -14,7 +14,6 @@ A collection of android security related resources.
 
 
 1. [AndroTotal](http://andrototal.org/)
-3. [Visual Threat](http://www.visualthreat.com/)
 4. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 5. [Appknox](https://www.appknox.com/) - not free
 6. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
@@ -25,6 +24,7 @@ A collection of android security related resources.
 12. [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 14. [AMAaaS](https://amaaas.com) - Android Malware Analysis as a Service. A baremetal service features static and dynamic analysis for Android applications. A product of MalwarePot (https://malwarepot.com/index.php/AMAaaS) - Free.
+15. ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
 15. ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 15. ~~[habo](https://habo.qq.com/) - 10/day~~
 16. ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~

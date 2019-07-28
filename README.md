@@ -14,9 +14,7 @@ A collection of android security related resources.
 
 
 1. [AndroTotal](http://andrototal.org/)
-4. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 5. [Appknox](https://www.appknox.com/) - not free
-6. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free
 7. [NVISO ApkScan](https://apkscan.nviso.be/)
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) - max 128MB
@@ -24,6 +22,8 @@ A collection of android security related resources.
 12. [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 14. [AMAaaS](https://amaaas.com) - Android Malware Analysis as a Service. A baremetal service features static and dynamic analysis for Android applications. A product of MalwarePot (https://malwarepot.com/index.php/AMAaaS) - Free.
+4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
+6. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - not free~~
 15. ~~[Visual Threat](https://www.visualthreat.com/) - no longer an Android app analyzer~~
 15. ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 15. ~~[habo](https://habo.qq.com/) - 10/day~~
@@ -44,7 +44,7 @@ A collection of android security related resources.
 ### Static Analysis Tools
 
 
-1.  [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
+1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.
 2. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 3. [APKInspector](https://github.com/honeynet/apkinspector/)
 4. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
@@ -79,7 +79,6 @@ A collection of android security related resources.
 
 1.  [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2.  [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
-3. [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
 6. [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
@@ -104,6 +103,7 @@ A collection of android security related resources.
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 29. [MARA](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
 30. [Taintdroid](http://appanalysis.org) - requires AOSP compilation
+3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 32. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~

@@ -137,6 +137,7 @@ A collection of android security related resources.
 30. [Radare2](https://github.com/radare/radare2)
 31. [Jadx](https://github.com/skylot/jadx)
 32. [Dwarf](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
+33. [Andromeda](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 
 ### Fuzz Testing
 

@@ -13,7 +13,8 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'habo.qq.com','www.fasteque.com','http://admire.necst.it/','tracedroid.few.vu.nl',\
 'http://appanalysis.org','http://dunkelheit.com.br','https://mobile-security.zeef.com',\
 'https://redmine.honeynet.org/projects/are/wiki','https://www.visualthreat.com/',\
-'http://www.mobilemalware.com.br','https://appscan.bluemix.net'
+'http://www.mobilemalware.com.br','https://appscan.bluemix.net',\
+'http://siis.cse.psu.edu/tools.html','http://siis.cse.psu.edu/dare/index.html'
 
 FLAKY_URLS='http://safe.ijiami.cn/'
 SRC_FILE=README.md

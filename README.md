@@ -45,7 +45,6 @@ A collection of android security related resources.
 3. [APKInspector](https://github.com/honeynet/apkinspector/)
 4. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 5. [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
-6. [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
 7. [Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)
 8. [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 9. [Android Decompiler](https://www.pnfsoftware.com/) – not free
@@ -62,6 +61,7 @@ A collection of android security related resources.
 20. [ClassyShark](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important infos.
 21. [StaCoAn](https://github.com/vincentcox/StaCoAn) - Crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
 22. [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
+23. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 
 ### App Vulnerability Scanners
 
@@ -114,7 +114,6 @@ A collection of android security related resources.
 7. [Android Framework for Exploitation](https://github.com/appknox/AFE)
 8. [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 9. [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate).
-10. [Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter
 11. [Dex2Jar](https://github.com/pxb1988/dex2jar) - dex to jar converter
 12. [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google
 13. [Dedexer](https://sourceforge.net/projects/dedexer/)
@@ -130,14 +129,15 @@ A collection of android security related resources.
 23. [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler
 24. [FernFlower](https://github.com/fesh0r/fernflower) - Java decompiler
 25. [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
-26. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
-27. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
-28. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
+26. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
 29. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer)
 30. [Radare2](https://github.com/radare/radare2)
 31. [Jadx](https://github.com/skylot/jadx)
 32. [Dwarf](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
 33. [Andromeda](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
+34. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
+35. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
+36. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
 
 ### Fuzz Testing
 

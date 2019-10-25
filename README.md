@@ -135,6 +135,7 @@ A collection of android security related resources.
 31. [Jadx](https://github.com/skylot/jadx)
 32. [Dwarf](https://github.com/iGio90/Dwarf) - GUI for reverse engineering
 33. [Andromeda](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
+34. [apk-mitm](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 34. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 35. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 36. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~

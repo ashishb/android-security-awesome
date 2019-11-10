@@ -225,6 +225,10 @@ A collection of Android security related resources.
 6. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
 7. ~~[Admire](http://admire.necst.it/)~~
 
+### Open-source Applications
+1. [Net Monitor | F-Droid](https://f-droid.org/en/packages/org.secuso.privacyfriendlynetmonitor/)
+This free and open source app provides you with connections each app is established
+
 ### Bounty Programs
 
 1. [Android Security Reward Program](https://www.google.com/about/appsecurity/android-rewards/)

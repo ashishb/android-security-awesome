@@ -225,6 +225,7 @@ A collection of android security related resources.
 5. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
 6. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
 7. ~~[Admire](http://admire.necst.it/)~~
+8. [Android malware datasets](https://github.com/traceflight/Android-Malware-Datasets) - github repo with an overview of existing datasets. 
 
 ### Bounty Programs
 

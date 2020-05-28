@@ -16,7 +16,7 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'http://www.mobilemalware.com.br','https://appscan.bluemix.net',\
 'http://siis.cse.psu.edu/tools.html','http://siis.cse.psu.edu/dare/index.html',\
 'http://codekiem.com/2012/02/24/apk-downloader/','https://apkscan.nviso.be',\
-'http://ww38.xchg.info'
+'http://ww38.xchg.info','https://thecobraden.com/projects/cobradroid'
 
 FLAKY_URLS='http://safe.ijiami.cn/'
 SRC_FILE=README.md

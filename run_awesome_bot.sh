@@ -10,7 +10,7 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'http://www.comdroid.org/','http://www.androidsandbox.net/','http://andrototal.org',\
 'http://www.mobile-app-insight.org','http://anubis.iseclab.org/',\
 'http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip',\
-'habo.qq.com','www.fasteque.com','http://admire.necst.it/','tracedroid.few.vu.nl',\
+'habo.qq.com','http://admire.necst.it/','tracedroid.few.vu.nl',\
 'http://appanalysis.org','http://dunkelheit.com.br','https://mobile-security.zeef.com',\
 'https://redmine.honeynet.org/projects/are/wiki','https://www.visualthreat.com/',\
 'http://www.mobilemalware.com.br','https://appscan.bluemix.net',\

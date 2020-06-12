@@ -225,6 +225,10 @@ A collection of android security related resources.
 4. [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 5. [VirusTotal Malware Intelligence Service](https://www.virustotal.com/en/about/contact/) - powered by VirusTotal, not free
 6. [Drebin](https://www.sec.cs.tu-bs.de/~danarp/drebin/)
+8. [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malwares which have been reverse engineered and documented
+9. [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
+10. [Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.
+11. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.
 7. ~~[Admire](http://admire.necst.it/)~~
 
 ### Bounty Programs

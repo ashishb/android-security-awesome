@@ -250,7 +250,9 @@ A collection of android security related resources.
 Your contributions are always welcome!
 
 
-<script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7IV2JW&placement=ashishbnet" id="_carbonads_js"></script>
+<script
+ async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7IV2JW&placement=ashishbnet" id="_carbonads_js">
+</script>
 <style>
   #carbonads {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu,

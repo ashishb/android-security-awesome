@@ -6,6 +6,10 @@ A collection of android security related resources.
 2. [Academic/Research/Publications/Books](#academic)
 3. [Exploits/Vulnerabilities/Bugs](#exploits)
 
+### Sponsor
+
+<a href="https://tracking.gitads.io/?repo=android-security-awesome/"><img src="https://images.gitads.io/android-security-awesome/" alt="GitAds" height=300 width=600/></a>
+
 ## <a name="tools"></a>Tools
 
 ### Online Analyzers

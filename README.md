@@ -137,7 +137,6 @@ A collection of android security related resources.
 20. [JD-GUI](https://github.com/java-decompiler/jd-gui) - Java decompiler
 21. [CFR](http://www.benf.org/other/cfr/) - Java decompiler
 22. [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler
-23. [Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler
 24. [FernFlower](https://github.com/fesh0r/fernflower) - Java decompiler
 25. [Redexer](https://github.com/plum-umd/redexer) – apk manipulation
 26. [Simplify Android deobfuscator](https://github.com/CalebFenton/simplify)
@@ -148,6 +147,7 @@ A collection of android security related resources.
 33. [Andromeda](https://github.com/secrary/Andromeda) - Another basic command-line reverse engineering tool
 34. [apk-mitm](https://github.com/shroudedcode/apk-mitm) - A CLI application that prepares Android APK files for HTTPS inspection
 35. [Noia](https://github.com/0x742/noia) - Simple Android application sandbox file browser tool
+36. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 34. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 35. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 36. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~

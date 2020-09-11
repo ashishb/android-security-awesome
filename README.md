@@ -212,6 +212,10 @@ A collection of android security related resources.
 
 ## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs
 
+### Vulnerabilities
+1. [CVE-2020-8913: Persistent arbitrary code execution in Google Play Core library](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
+2. [TikTok: Three persistent code executions and one theft of arbitrary files vulnerabilities](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
+
 ### List
 
 1. [Android Security Bulletins](https://source.android.com/security/bulletin/)

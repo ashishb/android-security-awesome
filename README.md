@@ -128,7 +128,7 @@ A collection of android security related resources.
 14. [Fino](https://github.com/sysdream/fino)
 15. [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
 16. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
-17. [IntentSniffer](https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/)
+17. [IntentSniffer](https://www.nccgroup.com/us/our-research/intent-sniffer/)
 18. [Introspy](https://github.com/iSECPartners/Introspy-Android)
 19. [Jad]( https://varaneckas.com/jad/) - Java decompiler
 20. [JD-GUI](https://github.com/java-decompiler/jd-gui) - Java decompiler

@@ -65,6 +65,7 @@ A collection of android security related resources.
 22. [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 23. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 24. [Quark-Engine](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
+25. [One Step Decompiler](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 
 ### App Vulnerability Scanners
 
@@ -78,6 +79,7 @@ A collection of android security related resources.
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+3. [House](https://github.com/nccgroup/house)- House: A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
 6. [Droidbox](https://github.com/pjlantz/droidbox)

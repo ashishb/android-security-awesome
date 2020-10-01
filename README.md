@@ -189,9 +189,12 @@ A collection of android security related resources.
 15. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 15. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 
-### Vulnerable Applications
+### Vulnerable Applications for practice
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
 2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
+4. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+5. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 

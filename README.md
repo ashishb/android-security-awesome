@@ -189,6 +189,10 @@ A collection of android security related resources.
 15. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 15. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 
+### Vulnerable Applications
+1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
+2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+
 ## <a name="academic"></a>Academic/Research/Publications/Books
 
 ### Research Papers

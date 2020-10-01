@@ -10,7 +10,7 @@ A collection of android security related resources.
 
 ### Online Analyzers
 
-1. [AndroTotal](http://andrototal.org/)
+1. [AndroTotal](http://andrototal.org/) - AndroTotal is a free service to scan suspicious APKs against multiple mobile antivirus apps.
 5. [Appknox](https://www.appknox.com/) - not free
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) - max 128MB

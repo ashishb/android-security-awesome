@@ -179,17 +179,21 @@ A collection of android security related resources.
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 4. [adb autocomplete](https://github.com/mbrubeck/android-completion)
 5. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
-7. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
-8. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
-9. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2) - for practice
-10. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
-11. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
-12. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
-13. [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
-14. [Internal Blue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
-15. [Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices
-15. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
-15. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
+6. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+7. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
+8. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
+9. [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
+10. [Internal Blue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
+11. [Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices
+12. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
+13. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
+
+### Vulnerable Applications for practice
+1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
+2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
+4. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+5. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 

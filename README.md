@@ -178,7 +178,6 @@ A collection of android security related resources.
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 4. [adb autocomplete](https://github.com/mbrubeck/android-completion)
-5. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
 6. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 7. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 8. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
@@ -187,6 +186,7 @@ A collection of android security related resources.
 11. [Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices
 12. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 13. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
+14. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
 ### Vulnerable Applications for practice
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)

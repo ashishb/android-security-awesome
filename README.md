@@ -187,6 +187,7 @@ A collection of android security related resources.
 12. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 13. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 14. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
+15. [Android Mobile Device Hardening](https://github.com/SecTheTech/AMDH) - AMDH scans and harden device's settings and list harmful installed Apps based on permissions.
 
 ### Vulnerable Applications for practice
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)

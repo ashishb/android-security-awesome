@@ -189,8 +189,8 @@ A collection of android security related resources.
 14. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 15. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
-
 ### Vulnerable Applications for practice
+
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
 2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)

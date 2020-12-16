@@ -28,7 +28,6 @@ awesome_bot \
   --allow-redirect \
   --allow-ssl \
   --skip-save-results \
-  # To avoid 429 errors
   --request-delay 1 \
   --white-list ${DEAD_URLS},${FLAKY_URLS} \
   --files ${SRC_FILE}

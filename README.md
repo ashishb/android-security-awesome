@@ -1,4 +1,4 @@
-# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/android-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
+# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://github.com/ashishb/android-security-awesome/actions">![Lint](https://github.com/ashishb/android-security-awesome/workflows/Lint/badge.svg)</a> <a href="https://github.com/ashishb/android-security-awesome/actions"> ![Test](https://github.com/ashishb/android-security-awesome/workflows/Test/badge.svg) </a>
 
 A collection of android security related resources.
 
@@ -189,8 +189,8 @@ A collection of android security related resources.
 14. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 15. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
 
-
 ### Vulnerable Applications for practice
+
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
 2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)

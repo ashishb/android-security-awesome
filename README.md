@@ -65,7 +65,8 @@ A collection of android security related resources.
 22. [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 23. [Quark-Engine](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
 24. [One Step Decompiler](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
-25. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
+25. [APKLeaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
+26. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 
 ### App Vulnerability Scanners
 

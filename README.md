@@ -1,4 +1,4 @@
-# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/android-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
+# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://github.com/ashishb/android-security-awesome/actions">![Lint](https://github.com/ashishb/android-security-awesome/workflows/Lint/badge.svg)</a> <a href="https://github.com/ashishb/android-security-awesome/actions"> ![Test](https://github.com/ashishb/android-security-awesome/workflows/Test/badge.svg) </a>
 
 A collection of android security related resources.
 
@@ -65,6 +65,7 @@ A collection of android security related resources.
 22. [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedure and interprocedure program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 23. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 24. [Quark-Engine](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
+24. [One Step Decompiler](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 25. [APKLeaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 
 ### App Vulnerability Scanners
@@ -79,6 +80,7 @@ A collection of android security related resources.
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
 2. [Androl4b](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+3. [House](https://github.com/nccgroup/house)- House: A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
 6. [Droidbox](https://github.com/pjlantz/droidbox)
@@ -129,7 +131,7 @@ A collection of android security related resources.
 14. [Fino](https://github.com/sysdream/fino)
 15. [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
 16. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
-17. [IntentSniffer](https://www.nccgroup.trust/us/about-us/resources/intent-sniffer/)
+17. [IntentSniffer](https://www.nccgroup.com/us/our-research/intent-sniffer/)
 18. [Introspy](https://github.com/iSECPartners/Introspy-Android)
 19. [Jad]( https://varaneckas.com/jad/) - Java decompiler
 20. [JD-GUI](https://github.com/java-decompiler/jd-gui) - Java decompiler
@@ -177,18 +179,24 @@ A collection of android security related resources.
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) - to convert binary XML files to human-readable XML files
 4. [adb autocomplete](https://github.com/mbrubeck/android-completion)
-5. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
-7. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html) - for practice
-8. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) - for practice
-9. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2) - for practice
-10. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
-11. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
-12. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
-13. [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
-14. [Internal Blue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
-15. [Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices
-15. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
-15. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
+6. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+7. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
+8. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
+9. [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering system API calls of native macOS, iOS and android apps. It is based on Frida.
+10. [Internal Blue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
+11. [Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices
+12. [Android Mobile Device Hardening](https://github.com/SecTheTech/AMDH) - AMDH scans and harden device's settings and list harmful installed Apps based on permissions.
+13. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
+14. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
+15. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
+
+### Vulnerable Applications for practice
+
+1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
+2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
+4. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+5. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 

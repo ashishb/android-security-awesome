@@ -42,7 +42,6 @@ A collection of android security related resources.
 27. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
 28. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
 
-
 ### Static Analysis Tools
 
 1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviours developed by an Android application.

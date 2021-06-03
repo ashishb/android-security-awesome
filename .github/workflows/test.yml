@@ -14,22 +14,14 @@ on:
     branches: [ master ]
 
 jobs:
-  test:
-
+  validate-links:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Ruby
-    # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
-    # change this to (see https://github.com/ruby/setup-ruby#versioning):
-    # uses: ruby/setup-ruby@v1
-      uses: ruby/setup-ruby@v1
+    - uses: simeg/urlsup-action@v1.0.0
       with:
-        ruby-version: 2.6
-    - name: Install dependencies
-      run: gem install awesome_bot
-    - name: Run tests
+        files: "README.md"
+    - name: Link Validator
       run: |
         # Some URLs could be flaky, try twice in case the first execution fails.
         bash run_awesome_bot.sh || bash run_awesome_bot.sh

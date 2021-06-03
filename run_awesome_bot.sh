@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -euxo pipefail
+set -euo pipefail
 
 
 DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',\
@@ -24,11 +24,7 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 
 FLAKY_URLS='http://safe.ijiami.cn/'
 SRC_FILE=README.md
-# Run `gem install awesome_bot` to install awesome_bot
-awesome_bot \
-  --allow-redirect \
-  --allow-ssl \
-  --skip-save-results \
-  --request-delay 1 \
+urlsup \
+  --allow 301,302 \
   --white-list ${DEAD_URLS},${FLAKY_URLS} \
-  --files ${SRC_FILE}
+  ${SRC_FILE}

@@ -181,6 +181,7 @@ A collection of android security related resources.
 5. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
 6. [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also an own app for downloading.
 7. [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
+8. [APK Downloader](https://apkcombo.com/apk-downloader/) Online Sevrice to download APK from Playstore for specific Android Device Configuration
 
 ### Misc Tools
 

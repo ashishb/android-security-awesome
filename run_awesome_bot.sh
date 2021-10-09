@@ -20,7 +20,10 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://bitbucket.org/mstrobel/procyon/wiki/',\
 'https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares',\
 'https://github.com/ashishb/android-security-awesome/actions',\
-'https://pscout.csl.toronto.edu'
+'https://pscout.csl.toronto.edu',\
+'https://appcritique.boozallen.com',\
+'https://amaaas.com',\
+'https://malwarepot.com/index.php/AMAaaS'
 
 FLAKY_URLS='http://safe.ijiami.cn/'
 SRC_FILE=README.md

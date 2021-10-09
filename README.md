@@ -205,6 +205,7 @@ A collection of android security related resources.
 3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
 4. [GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 5. [Android InsecureBank](https://github.com/dineshshetty/Android-InsecureBankv2)
+6. [Insecureshop](https://github.com/optiv/insecureshop)
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 

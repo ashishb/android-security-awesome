@@ -10,10 +10,11 @@ A collection of android security related resources.
 
 ### Online Analyzers
 
-1. [AndroTotal](http://andrototal.org/)
-5. [Appknox](https://www.appknox.com/) - not free
-8. [AVC UnDroid](http://undroid.av-comparatives.info/)
-10. [Virustotal](https://www.virustotal.com/) - max 128MB
+1. [Oversecured](https://oversecured.com/) - Enterprise vulnerability scanner for Android and iOS apps, it offers app owners and developers the ability to secure each new version of a mobile app by integrating Oversecured into the development process. Not free.
+2. [AndroTotal](http://andrototal.org/)
+3. [Appknox](https://www.appknox.com/) - not free
+4. [AVC UnDroid](http://undroid.av-comparatives.info/)
+5. [Virustotal](https://www.virustotal.com/) - max 128MB
 11. [Fraunhofer App-ray](http://app-ray.co/) - not free
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 15. [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details including app author, signature, build and manifest information. 3 Analysis/day free quota.
@@ -76,8 +77,7 @@ A collection of android security related resources.
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail](https://github.com/google/nogotofail)
-4. [Oversecured](https://oversecured.com/) - A mobile app vulnerability scanner, designed for security researchers and bug bounty hackers. It also allows integrations into the DevOps process for businesses.
-5. ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
+4. ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
 
 ### Dynamic Analysis Tools
 
@@ -203,6 +203,7 @@ A collection of android security related resources.
 
 ### Vulnerable Applications for practice
 
+1. [Oversecured Vulnerable Android App (OVAA)](https://github.com/oversecured/ovaa)
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
 2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)
@@ -229,7 +230,16 @@ A collection of android security related resources.
 3. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 4. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 5. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
-5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room which contains well categorised technical reading material about mobile penetration testing, mobile malware, mobile forensics and all kind of mobile security related topics~~
+6. [Android security checklist: WebView](https://blog.oversecured.com/Android-security-checklist-webview/)
+7. [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
+8. [Why dynamic code loading could be dangerous for your apps: a Google example](https://blog.oversecured.com/Why-dynamic-code-loading-could-be-dangerous-for-your-apps-a-Google-example/)
+9. [Android: Exploring vulnerabilities in WebResourceResponse](https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse/)
+10. [Exploiting memory corruption vulnerabilities on Android](https://blog.oversecured.com/Exploiting-memory-corruption-vulnerabilities-on-Android/)
+11. [Gaining access to arbitrary* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
+12. [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
+13. [Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
+14. [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
+15. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room which contains well categorised technical reading material about mobile penetration testing, mobile malware, mobile forensics and all kind of mobile security related topics~~
 
 ## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs
 
@@ -243,6 +253,14 @@ A collection of android security related resources.
 6. [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - click search
 7. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 8. [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://source.android.com/security/reports/Google_Android_Security_PHA_classifications.pdf)
+
+### Vulnerabilities
+
+1. [Two weeks of securing Samsung devices: Part 1](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
+2. [Two weeks of securing Samsung devices: Part 2](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
+3. [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
+4. [Dangerous vulnerabilities in the TikTok Android app](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
+5. [Persistent code execution in the Google Play Core Library](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
 
 ### Malware
 

@@ -10,6 +10,7 @@ A collection of android security related resources.
 
 ### Online Analyzers
 
+1. [Oversecured](https://oversecured.com/) - Enterprise vulnerability scanner for Android and iOS apps, it offers app owners and developers the ability to secure each new version of a mobile app by integrating Oversecured into the development process. Not free.
 1. [AndroTotal](http://andrototal.org/)
 5. [Appknox](https://www.appknox.com/) - not free
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
@@ -76,7 +77,6 @@ A collection of android security related resources.
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan app for security issues
 2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail](https://github.com/google/nogotofail)
-4. [Oversecured](https://oversecured.com/) - A mobile app vulnerability scanner, designed for security researchers and bug bounty hackers. It also allows integrations into the DevOps process for businesses.
 5. ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
 
 ### Dynamic Analysis Tools
@@ -203,6 +203,7 @@ A collection of android security related resources.
 
 ### Vulnerable Applications for practice
 
+1. [Oversecured Vulnerable Android App (OVAA)][https://github.com/oversecured/ovaa]
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
 2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)

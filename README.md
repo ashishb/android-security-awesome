@@ -203,7 +203,7 @@ A collection of android security related resources.
 
 ### Vulnerable Applications for practice
 
-1. [Oversecured Vulnerable Android App (OVAA)][https://github.com/oversecured/ovaa]
+1. [Oversecured Vulnerable Android App (OVAA)](https://github.com/oversecured/ovaa)
 1. [Damn Insecure Vulnerable Application (DIVA)](https://github.com/payatu/diva-android)
 2. [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 3. [ExploitMe Android Labs](http://securitycompass.github.io/AndroidLabs/setup.html)

@@ -11,6 +11,7 @@ A collection of android security related resources.
 ### Online Analyzers
 
 1. [AndroTotal](http://andrototal.org/)
+2. [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - Free, fast android application security testing for developers
 5. [Appknox](https://www.appknox.com/) - not free
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) - max 128MB
@@ -21,6 +22,7 @@ A collection of android security related resources.
 17. [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malwares with Yara rules. More [here](https://beta.pithus.org/about/).
 18. [Approver](https://approver.talos-sec.com/) - Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free.
 1. [Oversecured](https://oversecured.com/) - Enterprise vulnerability scanner for Android and iOS apps, it offers app owners and developers the ability to secure each new version of a mobile app by integrating Oversecured into the development process. Not free.
+2. [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - Free, fast Android application security testing for developers
 19. ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A baremetal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
 12. ~~[AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments~~
 15. ~~[NVISO ApkScan](https://apkscan.nviso.be/) - sunsetting on Oct 31, 2019~~

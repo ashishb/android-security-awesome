@@ -11,7 +11,6 @@ A collection of android security related resources.
 ### Online Analyzers
 
 1. [AndroTotal](http://andrototal.org/)
-2. [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - Free, fast android application security testing for developers
 5. [Appknox](https://www.appknox.com/) - not free
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) - max 128MB

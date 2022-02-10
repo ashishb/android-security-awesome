@@ -1,4 +1,4 @@
-# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://github.com/ashishb/android-security-awesome/actions">![Lint](https://github.com/ashishb/android-security-awesome/workflows/Lint/badge.svg)</a> <a href="https://github.com/ashishb/android-security-awesome/actions"> ![Test](https://github.com/ashishb/android-security-awesome/workflows/Test/badge.svg) </a>
+# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Lint](https://github.com/ashishb/android-security-awesome/actions/workflows/lint.yml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint.yml) [![Test](https://github.com/ashishb/android-security-awesome/actions/workflows/test.yml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/test.yml)
 
 A collection of android security related resources.
 

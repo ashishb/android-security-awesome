@@ -25,7 +25,9 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://amaaas.com',\
 'https://malwarepot.com/index.php/AMAaaS'
 
-FLAKY_URLS='http://safe.ijiami.cn/'
+FLAKY_URLS='http://safe.ijiami.cn/',\
+'https://apkcombo.com/apk-downloader/'
+
 SRC_FILE=README.md
 # Run `gem install awesome_bot` to install awesome_bot
 awesome_bot \

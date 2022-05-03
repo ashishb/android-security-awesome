@@ -43,6 +43,7 @@ A collection of android security related resources.
 26. ~~[Dexter](https://dexter.dexlabs.org/)~~
 27. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
 28. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
+29. [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and check them against public and private Yara rules.
 
 ### Static Analysis Tools
 

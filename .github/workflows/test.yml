@@ -5,31 +5,38 @@
 # This workflow will download a prebuilt Ruby version, install dependencies and run tests with Rake
 # For more information see: https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby
 
-name: Test
+name: Link Test
 
 on:
   push:
-    branches: [ master ]
+    branches: [master, main]
   pull_request:
-    branches: [ master ]
+    branches: [master, main]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  test:
+  validateLinks:
 
     runs-on: ubuntu-latest
+    timeout-minutes: 60
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby
-    # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
-    # change this to (see https://github.com/ruby/setup-ruby#versioning):
-    # uses: ruby/setup-ruby@v1
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6
-    - name: Install dependencies
-      run: gem install awesome_bot
-    - name: Run tests
-      run: |
-        # Some URLs could be flaky, try twice in case the first execution fails.
-        bash run_awesome_bot.sh || bash run_awesome_bot.sh
+
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        # See https://github.com/ruby/setup-ruby#versioning
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+
+      - name: Install dependencies
+        run: gem install awesome_bot
+      - name: Run tests
+        run: |
+          # Some URLs could be flaky, try twice in case the first execution fails.
+          bash run_awesome_bot.sh || bash run_awesome_bot.sh

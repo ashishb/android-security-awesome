@@ -39,7 +39,9 @@ jobs:
           key: ${{ runner.os }}-cargo-urlsup
 
       - name: Install urlsup
-        run: cargo install urlsup
+        # Check if the urlsup was already installed and retrieved
+        # from the cache in the previous step
+        run: command -v urlsup || cargo install urlsup
 
       - name: Validate links
         run: |

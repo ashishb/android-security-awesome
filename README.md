@@ -1,4 +1,4 @@
-# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Lint](https://github.com/ashishb/android-security-awesome/actions/workflows/lint.yml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint.yml) [![Test](https://github.com/ashishb/android-security-awesome/actions/workflows/test.yml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/test.yml)
+# android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![Lint Markdown](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-markdown.yaml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/lint-markdown.yaml) [![Test](https://github.com/ashishb/android-security-awesome/actions/workflows/test.yml/badge.svg)](https://github.com/ashishb/android-security-awesome/actions/workflows/test.yml)
 
 A collection of android security related resources.
 
@@ -6,7 +6,7 @@ A collection of android security related resources.
 2. [Academic/Research/Publications/Books](#academic)
 3. [Exploits/Vulnerabilities/Bugs](#exploits)
 
-## <a name="tools"></a>Tools
+## Tools
 
 ### Online Analyzers
 
@@ -213,7 +213,7 @@ A collection of android security related resources.
 6. [Insecureshop](https://github.com/optiv/insecureshop)
 1. [Oversecured Vulnerable Android App (OVAA)](https://github.com/oversecured/ovaa)
 
-## <a name="academic"></a>Academic/Research/Publications/Books
+## Academic/Research/Publications/Books
 
 ### Research Papers
 
@@ -234,7 +234,7 @@ A collection of android security related resources.
 5. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room which contains well categorised technical reading material about mobile penetration testing, mobile malware, mobile forensics and all kind of mobile security related topics~~
 
-## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs
+## Exploits/Vulnerabilities/Bugs
 
 ### List
 

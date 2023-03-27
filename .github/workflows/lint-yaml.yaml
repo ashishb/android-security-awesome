@@ -1,0 +1,52 @@
+---
+# Run this locally with act - https://github.com/nektos/act
+# act -j lintYaml
+name: Lint YAML
+
+on:  # yamllint disable-line rule:truthy
+  push:
+    branches: [master, main]
+    paths:
+      - '**.yml'
+      - '**.yaml'
+      - '.github/workflows/**.yml'
+      - '.github/workflows/**.yaml'
+  pull_request:
+    branches: [master, main]
+    paths:
+      - '**.yml'
+      - '**.yaml'
+      - '.github/workflows/**.yml'
+      - '.github/workflows/**.yaml'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lintYaml:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Check YAML files with linter
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          # All files under base dir
+          file_or_dir: "."
+          config_data: |
+            extends: default
+            yaml-files:
+              - '*.yaml'
+              - '*.yml'
+            rules:
+              document-start:
+                level: warning
+              line-length:
+                level: warning
+              new-line-at-end-of-file:
+                level: warning
+              trailing-spaces:
+                level: warning

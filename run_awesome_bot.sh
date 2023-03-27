@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -euxo pipefail
+set -euo pipefail
 
 
 DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',\
@@ -10,7 +10,7 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'http://www.comdroid.org/','http://www.androidsandbox.net/','http://andrototal.org',\
 'http://www.mobile-app-insight.org','http://anubis.iseclab.org/',\
 'http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip',\
-'habo.qq.com','http://admire.necst.it/','tracedroid.few.vu.nl',\
+'habo.qq.com','http://admire.necst.it/','http://tracedroid.few.vu.nl',\
 'http://appanalysis.org','http://dunkelheit.com.br','https://mobile-security.zeef.com',\
 'https://redmine.honeynet.org/projects/are/wiki','https://www.visualthreat.com/',\
 'http://www.mobilemalware.com.br','https://appscan.bluemix.net',\
@@ -23,17 +23,21 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://pscout.csl.toronto.edu',\
 'https://appcritique.boozallen.com',\
 'https://amaaas.com',\
-'https://malwarepot.com/index.php/AMAaaS'
+'https://malwarepot.com/index.php/AMAaaS',\
+'https://androidtamer.com/',\
+'https://kb.androidtamer.com/Device_Security_Patch_tracker/',\
+'http://undroid.av-comparatives.info/',\
+'https://github.com/EugenioDelfa/Smali-CFGs',\
+'https://malab.bitbaan.com/',\
+'https://www.android-device-security.org/client/datatable'
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
-'https://apkcombo.com/apk-downloader/'
+'https://apkcombo.com/apk-downloader/',\
+'https://pscout.csl.toronto.edu'
 
 SRC_FILE=README.md
-# Run `gem install awesome_bot` to install awesome_bot
-awesome_bot \
-  --allow-redirect \
-  --allow-ssl \
-  --skip-save-results \
-  --request-delay 1 \
+# Install urlsup with `cargo install urlsup`
+urlsup \
+  --allow 301,302 \
   --white-list ${DEAD_URLS},${FLAKY_URLS} \
-  --files ${SRC_FILE}
+  ${SRC_FILE}

@@ -173,6 +173,7 @@ A collection of android security related resources.
 1. [An Android port of the melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
 1. [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
 1. [AndroFuzz](https://github.com/jonmetz/AndroFuzz)
+1. [QuarksLab's Android Fuzzing](https://github.com/quarkslab/android-fuzzing)
 
 ### App Repackaging Detectors
 

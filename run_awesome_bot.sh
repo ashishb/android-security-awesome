@@ -20,7 +20,6 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://bitbucket.org/mstrobel/procyon/wiki/',\
 'https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares',\
 'https://github.com/ashishb/android-security-awesome/actions',\
-'https://pscout.csl.toronto.edu',\
 'https://appcritique.boozallen.com',\
 'https://amaaas.com',\
 'https://malwarepot.com/index.php/AMAaaS',\
@@ -31,11 +30,11 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://malab.bitbaan.com/',\
 'https://www.android-device-security.org/client/datatable',\
 'http://pralab.diee.unica.it/en/AndroidPRAGuardDataset',\
-'https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/'
+'https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/',\
+'https://www.sec.tu-bs.de/~danarp/drebin/'
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://apkcombo.com/apk-downloader/',\
-'https://pscout.csl.toronto.edu'
 
 SRC_FILE=README.md
 # Install urlsup with `cargo install urlsup`

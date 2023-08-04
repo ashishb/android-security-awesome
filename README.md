@@ -167,13 +167,13 @@ A collection of Android security-related resources.
 
 ### Fuzz Testing
 
-1. [IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)
 1. [Radamsa Fuzzer](https://github.com/anestisb/radamsa-android)
 1. [Honggfuzz](https://github.com/google/honggfuzz)
 1. [An Android port of the Melkor ELF fuzzer](https://github.com/anestisb/melkor-android)
 1. [Media Fuzzing Framework for Android](https://github.com/fuzzing/MFFA)
 1. [AndroFuzz](https://github.com/jonmetz/AndroFuzz)
 1. [QuarksLab's Android Fuzzing](https://github.com/quarkslab/android-fuzzing)
+1. ~~[IntentFuzzer](https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/)~~
 
 ### App Repackaging Detectors
 
@@ -259,8 +259,8 @@ A collection of Android security-related resources.
 1. [Drebin](https://www.sec.tu-bs.de/~danarp/drebin/)
 1. [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malware which have been reverse-engineered and documented
 1. [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
-1. [Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.
 1. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.
+1. ~~[Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.~~
 1. ~~[Admire](http://admire.necst.it/)~~
 
 ### Bounty Programs

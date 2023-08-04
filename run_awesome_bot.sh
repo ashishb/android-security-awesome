@@ -29,7 +29,9 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'http://undroid.av-comparatives.info/',\
 'https://github.com/EugenioDelfa/Smali-CFGs',\
 'https://malab.bitbaan.com/',\
-'https://www.android-device-security.org/client/datatable'
+'https://www.android-device-security.org/client/datatable',\
+'http://pralab.diee.unica.it/en/AndroidPRAGuardDataset',\
+'https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/'
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://apkcombo.com/apk-downloader/',\

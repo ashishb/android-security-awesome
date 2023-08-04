@@ -8,6 +8,9 @@
 name: "Link Liveness Checker"
 
 on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'  # Sunday midnight UTC
   push:
     branches: [master, main]
   pull_request:

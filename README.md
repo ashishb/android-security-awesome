@@ -197,6 +197,7 @@ A collection of Android security-related resources.
 1. [adb autocomplete](https://github.com/mbrubeck/android-completion)
 1. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 1. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
+1. [universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Debloat non-rooted android devices to improve privacy & security of device.
 1. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 1. [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
 1. [Internal Blue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers

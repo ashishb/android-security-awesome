@@ -237,6 +237,7 @@ A collection of Android security-related resources.
 1. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 1. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room that contains well-categorized technical reading material about mobile penetration testing, mobile malware, mobile forensics, and all kind of mobile security-related topics~~
 
+
 ## Exploits/Vulnerabilities/Bugs
 
 ### List
@@ -262,6 +263,9 @@ A collection of Android security-related resources.
 1. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.
 1. ~~[Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.~~
 1. ~~[Admire](http://admire.necst.it/)~~
+2. [Mobile Malware Series Part 1: Leveraging Accessibility Features To Steal Crypto Wallet](https://8ksec.io/mobile-malware-analysis-part-1-crypto-wallet-stealer/) - how malicious apps use Android accessibility features to steal crypto wallet credentials
+3. [Mobile Malware Series Part 2: MasterFred](https://8ksec.io/mobile-malware-analysis-part-2-masterfred/) - the inner workings of MasterFred, a notorious malware exploiting Android Accessibility services to steal financial and social information
+4. [Mobile Malware Series Part 3: Pegasus](https://8ksec.io/mobile-malware-analysis-part-3-pegasus/) - exploration of Pegasus/Chryasor Malware
 
 ### Bounty Programs
 

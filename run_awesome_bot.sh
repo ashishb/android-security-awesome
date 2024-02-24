@@ -31,7 +31,8 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://www.android-device-security.org/client/datatable',\
 'http://pralab.diee.unica.it/en/AndroidPRAGuardDataset',\
 'https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/',\
-'https://www.sec.tu-bs.de/~danarp/drebin/'
+'https://www.sec.tu-bs.de/~danarp/drebin/',\
+'https://apkpure.com'
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://apkcombo.com/apk-downloader/',\

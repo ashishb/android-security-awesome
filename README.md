@@ -187,9 +187,9 @@ A collection of Android security-related resources.
 1. [Google Play crawler (Node)](https://github.com/dweinstein/node-google-play) - get app details and download apps from the official Google Play Store.
 1. [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 1. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
-1. [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also its own app for downloading.
 1. [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
 1. [APK Downloader](https://apkcombo.com/apk-downloader/) Online Service to download APK from Playstore for specific Android Device Configuration
+~~1. [Apkpure](https://apkpure.com/) - Online apk downloader. Provides also its own app for downloading.~~
 
 ### Misc Tools
 

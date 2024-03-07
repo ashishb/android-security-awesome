@@ -55,7 +55,6 @@ A collection of Android security-related resources.
 1. [APKInspector](https://github.com/honeynet/apkinspector/)
 1. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 1. [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
-1. ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 1. [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 1. [Android Decompiler](https://www.pnfsoftware.com/) – not free
 1. [PSCout](https://security.csl.toronto.edu/pscout/) - A tool that extracts the permission specification from the Android OS source code using static analysis
@@ -75,6 +74,7 @@ A collection of Android security-related resources.
 1. [One Step Decompiler](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 1. [APKLeaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 1. [Mobile Audit](https://github.com/mpast/mobileAudit) - Web application for performing Static Analysis and detecting malware in Android APKs.
+1. ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 1. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 
 ### App Vulnerability Scanners
@@ -97,7 +97,6 @@ A collection of Android security-related resources.
 1. [Inspeckage](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
 1. [Android Hooker](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 1. [ProbeDroid](https://github.com/ZSShen/ProbeDroid) - Dynamic Java code instrumentation
-1. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 1. [DECAF](https://github.com/sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
 1. [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 1. [Mem](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
@@ -118,6 +117,8 @@ A collection of Android security-related resources.
 1. [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 1. [PAPIMonitor](https://github.com/Dado1513/PAPIMonitor) – PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.
 1. [Android_application_analyzer](https://github.com/NotSoSecure/android_application_analyzer) - The tool is used to analyze the content of the Android application in local storage.
+1. [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
+1. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 1. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (Linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 1. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
 1. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
@@ -160,11 +161,11 @@ A collection of Android security-related resources.
 1. [Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk) - Obfuscapk is a modular Python tool for obfuscating Android apps without needing their source code.
 1. [ARMANDroid](https://github.com/Mobile-IoT-Security-Lab/ARMANDroid) - ARMAND (Anti-Repackaging through Multi-patternAnti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.
 1. [MVT (Mobile Verification Toolkit)](https://github.com/mvt-project/mvt) - a collection of utilities to simplify and automate the process of gathering forensic traces helpful to identify a potential compromise of Android and iOS devices
+1. [Dexmod](https://github.com/google/dexmod) - tool to exemplify patching Dalvik bytecode in a DEX (Dalvik Executable) file, and assist in the static analysis of Android applications.
 1. ~~[Procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - Java decompiler~~
 1. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 1. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 1. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter~~
-1. [Decompiler.com](https://www.decompiler.com/) - Online APK and Java decompiler
 
 ### Fuzz Testing
 

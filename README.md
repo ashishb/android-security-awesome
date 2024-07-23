@@ -259,6 +259,7 @@ A collection of Android security-related resources.
 1. [Android Malware Genome Project](http://www.malgenomeproject.org/policy.html) - contains 1260 malware samples categorized into 49 different malware families, free for research purposes.
 1. [Contagio Mobile Malware Mini Dump](http://contagiominidump.blogspot.com)
 1. [Drebin](https://www.sec.tu-bs.de/~danarp/drebin/)
+1. [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset that can indicate if a specific APK package was compromised in an Infostealer malware attack.
 1. [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malware which have been reverse-engineered and documented
 1. [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
 1. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.

@@ -33,7 +33,8 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/',\
 'https://www.sec.tu-bs.de/~danarp/drebin/',\
 'https://apkpure.com',\
-'https://approver.talos-sec.com'
+'https://approver.talos-sec.com',\
+'https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard'
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://apkcombo.com/apk-downloader/',\

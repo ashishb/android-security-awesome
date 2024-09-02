@@ -18,11 +18,11 @@ A collection of Android security-related resources.
 1. [Fraunhofer App-ray](http://app-ray.co/) - not free
 1. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 1. [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details including app author, signature, build, and manifest information. 3 Analysis/day free quota.
-1. [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. Possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
+1. [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta for the moment and limited to static analysis for the moment. It is possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
 1. [Oversecured](https://oversecured.com/) - Enterprise vulnerability scanner for Android and iOS apps, it offers app owners and developers the ability to secure each new version of a mobile app by integrating Oversecured into the development process. Not free.
 1. [AppSweep by Guardsquare](https://appsweep.guardsquare.com/) - Free, fast Android application security testing for developers
 1. [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and checks them against public and private Yara rules.
-1. [Immuniweb](https://www.immuniweb.com/mobile/). Does a "OWASP Mobile Top 10 Test", "Mobile App Privacy Check" and an application permissions test. Free tier is 4 tests per day incl. report after registration
+1. [Immuniweb](https://www.immuniweb.com/mobile/). Does an "OWASP Mobile Top 10 Test", "Mobile App Privacy Check" and an application permissions test. The free tier is 4 tests per day incl. report after registration
 1. ~~[BitBaan](https://malab.bitbaan.com/)~~
 1. ~~[AVC UnDroid](http://undroid.av-comparatives.info/)~~
 1. ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A bare-metal service features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
@@ -53,7 +53,7 @@ A collection of Android security-related resources.
 1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 1. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 1. [APKInspector](https://github.com/honeynet/apkinspector/)
-1. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
+1. [Droid Intent Data Flow Analysis for Information Leakage](https://insights.sei.cmu.edu/library/didfail/)
 1. [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
 1. [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 1. [Android Decompiler](https://www.pnfsoftware.com/) – not free
@@ -67,8 +67,8 @@ A collection of Android security-related resources.
 1. [DroidRA](https://github.com/serval-snt-uni-lu/DroidRA)
 1. [RiskInDroid](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with an online demo available.
 1. [SUPER](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
-1. [ClassyShark](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important info.
-1. [StaCoAn](https://github.com/vincentcox/StaCoAn) - Cross-platform tool which aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
+1. [ClassyShark](https://github.com/google/android-classyshark) - Standalone binary inspection tool that can browse any Android executable and show important info.
+1. [StaCoAn](https://github.com/vincentcox/StaCoAn) - Cross-platform tool that aids developers, bug-bounty hunters, and ethical hackers in performing static code analysis on mobile applications. This tool was created with a big focus on usability and graphical guidance in the user interface.
 1. [JAADAS](https://github.com/flankerhqd/JAADAS) - Joint intraprocedural and interprocedural program analysis tool to find vulnerabilities in Android apps, built on Soot and Scala
 1. [Quark-Engine](https://github.com/quark-engine/quark-engine) - An Obfuscation-Neglect Android Malware Scoring System
 1. [One Step Decompiler](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
@@ -179,7 +179,7 @@ A collection of Android security-related resources.
 
 ### App Repackaging Detectors
 
-1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for the detection of repackaged Android applications based on app resources hash comparison.
+1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detecting repackaged Android applications based on app resources hash comparison.
 
 ### Market Crawlers
 
@@ -228,7 +228,7 @@ A collection of Android security-related resources.
 
 ### Books
 
-1. [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard)
+1. [SEI CERT Android Secure Coding Standard](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)
 
 ### Others
 
@@ -236,7 +236,7 @@ A collection of Android security-related resources.
 1. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 1. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 1. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-1. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](http://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
+1. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 1. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room that contains well-categorized technical reading material about mobile penetration testing, mobile malware, mobile forensics, and all kind of mobile security-related topics~~
 
 ## Exploits/Vulnerabilities/Bugs
@@ -262,7 +262,7 @@ A collection of Android security-related resources.
 1. [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free cybercrime intelligence toolset that can indicate if a specific APK package was compromised in an Infostealer malware attack.
 1. [Kharon Malware Dataset](http://kharon.gforge.inria.fr/dataset/) - 7 malware which have been reverse-engineered and documented
 1. [Android Adware and General Malware Dataset](https://www.unb.ca/cic/datasets/android-adware.html)
-1. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing collection of Android Applications collected from several sources, including the official Google Play app market.
+1. [AndroZoo](https://androzoo.uni.lu/) - AndroZoo is a growing Android application collection from several sources, including the official Google Play app market.
 1. ~~[Android PRAGuard Dataset](http://pralab.diee.unica.it/en/AndroidPRAGuardDataset) - The dataset contains 10479 samples, obtained by obfuscating the MalGenome and the Contagio Minidump datasets with seven different obfuscation techniques.~~
 1. ~~[Admire](http://admire.necst.it/)~~
 

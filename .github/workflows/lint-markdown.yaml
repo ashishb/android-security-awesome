@@ -1,4 +1,4 @@
----
+<!---
 # Run this locally with act - https://github.com/nektos/act
 # act -j lintMarkdown
 name: Lint Markdown

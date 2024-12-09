@@ -35,7 +35,8 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://apkpure.com',\
 'https://approver.talos-sec.com',\
 'https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard',\
-'https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/'
+'https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/',\
+'https://manifestsecurity.com/appie/'
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://apkcombo.com/apk-downloader/',\

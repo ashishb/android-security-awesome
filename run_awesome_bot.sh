@@ -41,7 +41,9 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://apkcombo.com/apk-downloader/',\
-'https://www.nowsecure.com/'
+'https://www.nowsecure.com/',\
+'https://www.immuniweb.com/mobile/',\
+'https://img.shields.io/github/contributors/ashishb/android-security-awesome'
 
 SRC_FILE=README.md
 # Install urlsup with `cargo install urlsup`

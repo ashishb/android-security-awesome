@@ -236,6 +236,8 @@ A collection of Android security-related resources.
 1. [Exploit Database](https://www.exploit-db.com/papers/)
 1. [Android security-related presentations](https://github.com/jacobsoo/AndroidSlides)
 1. [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
+1. [Android Jetpack Navigation](https://swarm.ptsecurity.com/android-jetpack-navigation-deep-links-handling-exploitation/)
+1. [Android Jetpack Compose Navigation](https://swarm.ptsecurity.com/android-jetpack-navigation-go-even-deeper/)
 
 ### Books
 

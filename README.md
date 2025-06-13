@@ -66,7 +66,7 @@ A collection of Android security-related resources.
 1. [PSCout](https://security.csl.toronto.edu/pscout/) - A tool that extracts the permission specification from the Android OS source code using static analysis
 1. [Amandroid](http://amandroid.sireum.org/)
 1. [SmaliSCA](https://github.com/dorneanu/smalisca) - Smali Static Code Analysis
-1. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares CFG against CFG of malicious applications
+1. [CFGScanDroid](https://github.com/douggard/CFGScanDroid) - Scans and compares the CFG against the CFG of malicious applications
 1. [Madrolyzer](https://github.com/maldroid/maldrolyzer) - extracts actionable data like C&C, phone number etc.
 1. [ConDroid](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symbolic + concrete execution of the app
 1. [DroidRA](https://github.com/serval-snt-uni-lu/DroidRA)
@@ -107,7 +107,7 @@ A collection of Android security-related resources.
 1. [CuckooDroid](https://github.com/idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
 1. [Mem](https://github.com/MobileForensicsResearch/mem) - Memory analysis of Android (root required)
 1. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
-1. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
+1. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) – Android port of auditd, not under active development anymore
 1. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore
 1. [Aurasium](https://github.com/xurubin/aurasium) – Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitoring.
 1. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
@@ -129,7 +129,7 @@ A collection of Android security-related resources.
 1. ~~[Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.~~
 1. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
 1. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (Linux distro) Earlier, it used to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
-1. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) not under active development anymore~~
+1. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE (android reverse engineering) is not under active development anymore~~
 1. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 1. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 1. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis~~
@@ -149,7 +149,7 @@ A collection of Android security-related resources.
 1. [Enjarify](https://github.com/google/enjarify) - dex to jar converter from Google
 1. [Dedexer](https://sourceforge.net/projects/dedexer/)
 1. [Fino](https://github.com/sysdream/fino)
-1. [Frida](https://www.frida.re/) - inject javascript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
+1. [Frida](https://www.frida.re/) - inject JavaScript to explore applications and a [GUI tool](https://github.com/antojoseph/diff-gui) for it
 1. [Indroid](https://bitbucket.org/aseemjakhar/indroid) – thread injection kit
 1. [IntentSniffer](https://www.nccgroup.com/us/our-research/intent-sniffer/)
 1. [Introspy](https://github.com/iSECPartners/Introspy-Android)
@@ -199,7 +199,7 @@ A collection of Android security-related resources.
 1. [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - download apps from Aptoide third-party Android market
 1. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - download apps from Appland third-party Android market
 1. [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - PlaystoreDownloader is a tool for downloading Android applications directly from the Google Play Store. After an initial (one-time) configuration, applications can be downloaded by specifying their package name.
-1. [APK Downloader](https://apkcombo.com/apk-downloader/) Online Service to download APK from Playstore for specific Android Device Configuration
+1. [APK Downloader](https://apkcombo.com/apk-downloader/) Online Service to download APK from the Play Store for a specific Android Device Configuration
 1. ~~[Apkpure](https://apkpure.com/) - Online apk downloader. Also, it provides its own app for downloading.~~
 
 ### Misc Tools
@@ -211,9 +211,10 @@ A collection of Android security-related resources.
 1. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 1. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) - android-vts scans a device for set of vulnerabilities
 1. [AppMon](https://github.com/dpnishant/appmon)- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
-1. [Internal Blue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on Reverse Engineering of Broadcom Bluetooth Controllers
+1. [Internal Blue](https://github.com/seemoo-lab/internalblue) - Bluetooth experimentation framework based on the Reverse Engineering of Broadcom Bluetooth Controllers
 1. [Android Mobile Device Hardening](https://github.com/SecTheTech/AMDH) - AMDH scans and hardens the device's settings and lists harmful installed Apps based on permissions.
 1. [Firmware Extractor](https://github.com/AndroidDumps/Firmware_extractor) - Extract given archive to images
+1. [ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders](https://github.com/R0rt1z2/kaeru)  
 1. ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
 1. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 1. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now

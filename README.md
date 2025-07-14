@@ -291,3 +291,18 @@ A collection of Android security-related resources.
 ## Contributing
 
 Your contributions are always welcome!
+
+## 📖 Citation
+
+```bibtex
+@misc{
+  author = {Ashish Bhatia - ashishb.net},
+  title = {The most comprehensive collection of Android Security related resources},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/ashishb/android-security-awesome}}
+}
+```
+
+This repository has been cited in [10+ papers](https://scholar.google.com/scholar?q=github.com%2Fashishb%2Fandroid-security-awesome)

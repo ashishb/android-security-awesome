@@ -43,7 +43,10 @@ FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://apkcombo.com/apk-downloader/',\
 'https://www.nowsecure.com/',\
 'https://www.immuniweb.com/mobile/',\
-'https://img.shields.io/github/contributors/ashishb/android-security-awesome'
+'https://img.shields.io/github/contributors/ashishb/android-security-awesome',\
+'https://security.csl.toronto.edu/pscout/',\
+'https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html'
+
 
 SRC_FILE=README.md
 # Install urlsup with `cargo install urlsup`

@@ -31,13 +31,16 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://www.android-device-security.org/client/datatable',\
 'http://pralab.diee.unica.it/en/AndroidPRAGuardDataset',\
 'https://www.nccgroup.trust/us/about-us/resources/intent-fuzzer/',\
+'https://www.nccgroup.com/us/our-research/intent-sniffer/',\
 'https://www.sec.tu-bs.de/~danarp/drebin/',\
 'https://apkpure.com',\
 'https://approver.talos-sec.com',\
 'https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard',\
 'https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/',\
 'https://manifestsecurity.com/appie/',\
-'https://www.cs.washington.edu/sparta'
+'https://www.cs.washington.edu/sparta',\
+'https://appsec-labs.com/AppUse/',
+
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://apkcombo.com/apk-downloader/',\
@@ -45,7 +48,9 @@ FLAKY_URLS='http://safe.ijiami.cn/',\
 'https://www.immuniweb.com/mobile/',\
 'https://img.shields.io/github/contributors/ashishb/android-security-awesome',\
 'https://security.csl.toronto.edu/pscout/',\
-'https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html'
+'https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html',\
+'http://kharon.gforge.inria.fr/dataset/',\
+'https://insights.sei.cmu.edu/library/didfail/'
 
 
 SRC_FILE=README.md

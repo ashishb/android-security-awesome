@@ -52,10 +52,12 @@ FLAKY_URLS='http://safe.ijiami.cn/',\
 'http://kharon.gforge.inria.fr/dataset/',\
 'https://insights.sei.cmu.edu/library/didfail/'
 
+BLOCKED_URLS='https://scholar.google.com/scholar?q=github.com%2Fashishb%2Fandroid-security-awesome'
+
 
 SRC_FILE=README.md
 # Install urlsup with `cargo install urlsup`
 urlsup \
   --allow 301,302 \
-  --white-list ${DEAD_URLS},${FLAKY_URLS} \
+  --white-list ${DEAD_URLS},${FLAKY_URLS},${BLOCKED_URLS} \
   ${SRC_FILE}

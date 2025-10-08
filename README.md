@@ -127,6 +127,7 @@ A collection of Android security-related resources.
 1. [friTap](https://github.com/fkie-cad/friTap)- Intercept SSL/TLS connections with Frida; Allows TLS key extraction and decryption of TLS payload as PCAP on Android in real-time.
 1. [HacknDroid](https://github.com/RaffaDNDM/HacknDroid) - A tool designed to automate various Mobile Application Penetration Testing (MAPT) tasks and facilitate interaction with Android devices.
 1. [adbsploit](https://github.com/mesquidar/adbsploit) - tools for exploiting device via ADB
+1. [Brida](https://github.com/federicodotta/Brida) - Burp Suite extension that, working as a bridge between Burp and Frida, lets you use and manipulate the applications' own methods while tampering the traffic exchanged between the applications and their back-end services/servers.
 1. ~~[AppUse](https://appsec-labs.com/AppUse/) – custom build for penetration testing~~
 1. ~~[Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.~~
 1. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~

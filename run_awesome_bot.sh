@@ -58,6 +58,6 @@ BLOCKED_URLS='https://scholar.google.com/scholar?q=github.com%2Fashishb%2Fandroi
 SRC_FILE=README.md
 # Install urlsup with `cargo install urlsup`
 urlsup \
-  --allow 301,302 \
-  --white-list ${DEAD_URLS},${FLAKY_URLS},${BLOCKED_URLS} \
+  --allowlist 301,302 \
+  --exclude-pattern ${DEAD_URLS},${FLAKY_URLS},${BLOCKED_URLS} \
   ${SRC_FILE}

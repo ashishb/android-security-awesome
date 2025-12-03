@@ -57,6 +57,7 @@ A collection of Android security-related resources.
 
 ### Static Analysis Tools
 
+1. [APKdevastate](https://github.com/rafigk2v9c/APKdevastate/) - Advanced analysis software for APK payloads created by RATs.
 1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 1. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 1. [APKInspector](https://github.com/honeynet/apkinspector/)

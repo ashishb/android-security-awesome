@@ -57,7 +57,6 @@ A collection of Android security-related resources.
 
 ### Static Analysis Tools
 
-1. [APKdevastate](https://github.com/rafigk2v9c/APKdevastate/) - Advanced analysis software for APK payloads created by RATs.
 1. [Androwarn](https://github.com/maaaaz/androwarn/) - detect and warn the user about potential malicious behaviors developed by an Android application.
 1. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 1. [APKInspector](https://github.com/honeynet/apkinspector/)
@@ -82,6 +81,7 @@ A collection of Android security-related resources.
 1. [APKLeaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 1. [Mobile Audit](https://github.com/mpast/mobileAudit) - Web application for performing Static Analysis and detecting malware in Android APKs.
 1. [Detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
+1. [APKdevastate](https://github.com/rafigk2v9c/APKdevastate/) - Advanced analysis software for APK payloads created by RATs.
 1. ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 1. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 1. ~~[SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)~~

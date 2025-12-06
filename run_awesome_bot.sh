@@ -16,7 +16,7 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'http://www.mobilemalware.com.br','https://appscan.bluemix.net',\
 'http://siis.cse.psu.edu/tools.html','http://siis.cse.psu.edu/dare/index.html',\
 'http://codekiem.com/2012/02/24/apk-downloader/','https://apkscan.nviso.be',\
-'http://ww38.xchg.info','https://thecobraden.com/projects/cobradroid',\
+'http://ww38.xchg.info','https://thecobraden.com/projects/cobradroid/',\
 'https://bitbucket.org/mstrobel/procyon/wiki/',\
 'https://code.google.com/p/androguard/wiki/DatabaseAndroidMalwares',\
 'https://github.com/ashishb/android-security-awesome/actions',\
@@ -39,7 +39,10 @@ DEAD_URLS='opencollective.com','http://copperdroid.isg.rhul.ac.uk/copperdroid/',
 'https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/',\
 'https://manifestsecurity.com/appie/',\
 'https://www.cs.washington.edu/sparta',\
-'https://appsec-labs.com/AppUse/',
+'https://appsec-labs.com/AppUse/',\
+'http://dunkelheit.com.br/amat/analysis/index_en.php',\
+'https://github.com/BaiduSecurityLabs/ZjDroid',\
+'https://github.com/yangbean9/ZjDroid'
 
 
 FLAKY_URLS='http://safe.ijiami.cn/',\
@@ -58,6 +61,6 @@ BLOCKED_URLS='https://scholar.google.com/scholar?q=github.com%2Fashishb%2Fandroi
 SRC_FILE=README.md
 # Install urlsup with `cargo install urlsup`
 urlsup \
-  --allowlist 301,302 \
-  --exclude-pattern ${DEAD_URLS},${FLAKY_URLS},${BLOCKED_URLS} \
+  --allow-status 301,302 \
+  --exclude-pattern "${DEAD_URLS}","${FLAKY_URLS}","${BLOCKED_URLS}" \
   ${SRC_FILE}

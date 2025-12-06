@@ -46,7 +46,7 @@ jobs:
       - name: Install urlsup
         # Check if the urlsup was already installed and retrieved
         # from the cache in the previous step
-        run: command -v urlsup || cargo install urlsup
+        run: command -v urlsup || cargo install --locked urlsup
 
       - name: Validate links
         run: |

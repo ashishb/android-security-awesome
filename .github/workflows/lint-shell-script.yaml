@@ -4,6 +4,7 @@
 name: Lint Shell scripts
 
 on:  # yamllint disable-line rule:truthy
+  workflow_dispatch:
   push:
     branches: [master, main]
     paths:

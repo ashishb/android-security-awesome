@@ -20,6 +20,10 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+# Ref: https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/controlling-permissions-for-github_token
+permissions:
+  contents: read
+
 jobs:
   lintGitHubActionsWithActionLint:
     runs-on: ubuntu-latest
@@ -35,7 +39,7 @@ jobs:
           sparse-checkout-cone-mode: false
 
       - name: Lint GitHub Actions
-        uses: reviewdog/action-actionlint@v1
+        uses: reviewdog/action-actionlint@a5524e1c19e62881d79c1f1b9b6f09f16356e281  # v1.65.2
 
       - name: Check GitHub Actions with 'actionlint'
         # Ref: https://github.com/rhysd/actionlint/blob/main/docs/usage.md#use-actionlint-on-github-actions
@@ -64,11 +68,5 @@ jobs:
             .github/workflows
           sparse-checkout-cone-mode: false
 
-      - name: Setup Rust
-        uses: actions-rust-lang/setup-rust-toolchain@v1
-
-      - name: Install zizmor
-        run: cargo install zizmor
-
       - name: Run zizmor on GitHub Actions
-        run: zizmor .github/workflows/*
+        run: docker run --rm --network none -v "$PWD":/work:ro ghcr.io/woodruffw/zizmor:latest --offline /work/.github/workflows

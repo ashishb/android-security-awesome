@@ -37,7 +37,7 @@ jobs:
 
       - name: Set up Ruby
         # See https://github.com/ruby/setup-ruby#versioning
-        uses: ruby/setup-ruby@675dd7ba1b06c8786a1480d89c384f5620a42647  # v1.281.0
+        uses: ruby/setup-ruby@80740b3b13bf9857e28854481ca95a84e78a2bdf  # v1.284.0
         with:
           ruby-version: 3.0
 

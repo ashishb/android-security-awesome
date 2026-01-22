@@ -224,6 +224,7 @@ A collection of Android security-related resources.
 1. [Firmware Extractor](https://github.com/AndroidDumps/Firmware_extractor) - Extract given archive to images
 1. [ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders](https://github.com/R0rt1z2/kaeru)  
 1. [DroidGround](https://github.com/SECFORCE/droidground) - A flexible playground for Android CTF challenges
+1. [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) - A collection of android Exploits and Hacks
 1. ~~[Android Device Security Database](https://www.android-device-security.org/client/datatable) - Database of security features of Android devices~~
 1. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 1. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now

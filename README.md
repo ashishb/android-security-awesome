@@ -21,7 +21,6 @@ A collection of Android security-related resources.
 1. [AndroTotal](http://andrototal.org/)
 1. [Appknox](https://www.appknox.com/) - not free
 1. [Virustotal](https://www.virustotal.com/) - max 128MB
-1. [Fraunhofer App-ray](http://app-ray.co/) - not free
 1. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 1. [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details, including app author, signature, build, and manifest information. 3 Analysis/day free quota.
 1. [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta and limited to static analysis for the moment. It is possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).
@@ -54,6 +53,7 @@ A collection of Android security-related resources.
 1. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
 1. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
 1. ~~[approver](https://approver.talos-sec.com/) - Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free.~~
+1. ~~[Fraunhofer App-ray](http://app-ray.co/) - expired domain~~
 
 ### Static Analysis Tools
 

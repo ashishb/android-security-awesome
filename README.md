@@ -18,7 +18,6 @@ A collection of Android security-related resources.
 
 ### Online Analyzers
 
-1. [AndroTotal](http://andrototal.org/)
 1. [Appknox](https://www.appknox.com/) - not free
 1. [Virustotal](https://www.virustotal.com/) - max 128MB
 1. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
@@ -54,6 +53,7 @@ A collection of Android security-related resources.
 1. ~~[Fireeye](https://fireeye.ijinshan.com/)- max 60MB 15/day~~
 1. ~~[approver](https://approver.talos-sec.com/) - Approver  is a fully automated security analysis and risk assessment platform for Android and iOS apps. Not free.~~
 1. ~~[Fraunhofer App-ray](http://app-ray.co/) - expired domain~~
+1. ~~[AndroTotal](http://andrototal.org/) - dead~~
 
 ### Static Analysis Tools
 

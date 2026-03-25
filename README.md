@@ -19,7 +19,7 @@ A collection of Android security-related resources.
 ### Online Analyzers
 
 1. [Appknox](https://www.appknox.com/) - not free
-1. [Virustotal](https://www.virustotal.com/) - max 128MB
+1. [Virustotal](https://www.virustotal.com/)
 1. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 1. [App Detonator](https://appdetonator.run/) - Detonate APK binary to provide source code level details, including app author, signature, build, and manifest information. 3 Analysis/day free quota.
 1. [Pithus](https://beta.pithus.org/) - Open-Source APK analyzer. Still in Beta and limited to static analysis for the moment. It is possible to hunt malware with Yara rules. More [here](https://beta.pithus.org/about/).

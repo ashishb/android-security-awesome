@@ -16,6 +16,7 @@ A collection of Android security-related resources.
 
 ## Tools
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=ashishb_android-security-awesome) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### Online Analyzers
 
 1. [Appknox](https://www.appknox.com/) - not free

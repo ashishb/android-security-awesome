@@ -16,6 +16,9 @@ A collection of Android security-related resources.
 
 ## Tools
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 ### Online Analyzers
 
 1. [Appknox](https://www.appknox.com/) - not free

@@ -91,6 +91,7 @@ A collection of Android security-related resources.
 1. [QARK](https://github.com/linkedin/qark/) - QARK by LinkedIn is for app developers to scan apps for security issues
 1. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 1. [Nogotofail](https://github.com/google/nogotofail)
+1. [Ostorlab](https://ostorlab.co) - Ostorlab free version scans apps in : Android playstore, iOS Appstore, Huawei AppGallery
 1. ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
 
 ### Dynamic Analysis Tools

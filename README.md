@@ -149,7 +149,7 @@ A collection of Android security-related resources.
 1. [vim syntax coloring for smali files](http://codetastrophe.com/smali.vim)
 1. [AndBug](https://github.com/swdunlop/AndBug)
 1. [Androguard](https://github.com/androguard/androguard) – powerful, integrates well with other tools
-1. [Apktool](https://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
+1. [Apktool](https://github.com/iBotPeaches/Apktool) – really useful for compilation/decompilation (uses smali)
 1. [Android Framework for Exploitation](https://github.com/appknox/AFE)
 1. [Bypass signature and permission checks for IPCs](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 1. [Android OpenDebug](https://github.com/iSECPartners/Android-OpenDebug) – make any application on the device debuggable (using Cydia Substrate).

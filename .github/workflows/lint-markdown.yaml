@@ -47,5 +47,4 @@ jobs:
       - name: Run tests
         # Rule list: https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md
         # Don't check for line length (MD013)
-        # Don't care about list ordering (MD029)
-        run: mdl --git-recurse --rules ~MD013,~MD029 .
+        run: mdl --git-recurse --rules ~MD013

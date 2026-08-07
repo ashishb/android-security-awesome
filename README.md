@@ -144,6 +144,7 @@ A collection of Android security-related resources.
 1. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 1. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 1. ~~[Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis~~
+1. [Mobix](https://github.com/blackfoxxx/Mobix) - Authorized Android pentest lab: Frida SSL-pinning/root-detection bypass chain, mitmproxy traffic capture with automatic IDOR flagging, a web dashboard, and a 36-tool MCP server so a Claude Code agent can run the whole scan-to-findings loop itself.
 
 ### Reverse Engineering
 

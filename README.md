@@ -248,6 +248,7 @@ A collection of Android security-related resources.
 1. [Insecureshop](https://github.com/optiv/insecureshop)
 1. [Oversecured Vulnerable Android App (OVAA)](https://github.com/oversecured/ovaa)
 1. [Injured Android - CTF](https://github.com/B3nac/InjuredAndroid)
+1. [Damn Vulnerable Mobile App (DVMA)](https://github.com/cpeoples/dvma)
 
 ## Academic/Research/Publications/Books
 

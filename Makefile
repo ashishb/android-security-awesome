@@ -1,5 +1,5 @@
 lint:
-	mdl -r ~MD013 README.md
+	mdl --git-recurse --rules ~MD013
 
 test:
 	# Some URLs could be flaky, try twice in case the first execution fails.

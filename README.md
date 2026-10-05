@@ -13,8 +13,8 @@
 A collection of Android security-related resources.
 
 1. [Tools](#tools)
-1. [Academic/Research/Publications/Books](#academic)
-1. [Exploits/Vulnerabilities/Bugs](#exploits)
+1. [Academic/Research/Publications/Books](#academicresearchpublicationsbooks)
+1. [Exploits/Vulnerabilities/Bugs](#exploitsvulnerabilitiesbugs)
 
 ## Tools
 

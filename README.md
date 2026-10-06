@@ -12,6 +12,8 @@
 
 A collection of Android security-related resources.
 
+If you find this project useful, please consider [supporting it](./sponsors.md).
+
 1. [Tools](#tools)
 1. [Academic/Research/Publications/Books](#academicresearchpublicationsbooks)
 1. [Exploits/Vulnerabilities/Bugs](#exploitsvulnerabilitiesbugs)

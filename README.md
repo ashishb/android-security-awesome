@@ -273,6 +273,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 1. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 1. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
 1. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room that contains well-categorized technical reading material about mobile penetration testing, mobile malware, mobile forensics, and all kinds of mobile security-related topics~~
+1. [Awesome Reverse-Engineered](https://github.com/alexgaoth/awesome-reverse-engineered) - searchable index of 16,800+ open-source projects built by reverse engineering closed apps and devices, including 570+ Android app clients, APK tools and device libraries
 
 ## Exploits/Vulnerabilities/Bugs
 

@@ -96,6 +96,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 1. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 1. [Nogotofail](https://github.com/google/nogotofail)
 1. [Ostorlab](https://ostorlab.co) - Ostorlab free version scans apps in Android Play Store, iOS App Store, and Huawei AppGallery
+1. [FlutterGuard](https://github.com/anasfik/FlutterGuard) - Offline on-device scanner for released Flutter APKs: manifest policy, libraries, endpoints, exposed strings and dependency clues, with local reports.
 1. ~~[Devknox](https://devknox.io/) - IDE plugin to build secure Android apps. Not maintained anymore.~~
 
 ### Dynamic Analysis Tools

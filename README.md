@@ -276,6 +276,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 1. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 1. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 1. [Android Reverse Engineering 101 by Daniele Altomare (Web Archive link)](https://web.archive.org/web/20180721134044/http://www.fasteque.com:80/android-reverse-engineering-101-part-1/)
+1. [HackTheKnowledge - Android Malware Analysis path](https://hacktheknowledge.com/paths/android-malware) - Hands-on (paid) course: APK unpacking, jadx decompilation, Frida instrumentation and C2 configuration extraction on real samples in isolated cloud labs.
 1. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - A reading room that contains well-categorized technical reading material about mobile penetration testing, mobile malware, mobile forensics, and all kinds of mobile security-related topics~~
 
 ## Exploits/Vulnerabilities/Bugs

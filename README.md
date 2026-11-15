@@ -244,6 +244,10 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 1. ~~[Opcodes table for quick reference](http://ww38.xchg.info/corkami/opcodes_tables.pdf)~~
 1. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~ - seems dead now
 1. ~~[Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)~~
+1. [SanderShield](https://github.com/aleksandergrambelik-png/SanderShield) - 630KB Zero-Dependency Mobile Security Suite for Android. Features Port Scanner, CVE Checker, Anti-Tracker, and Tarpit. (APK)
+1. [SanderDeflect](https://github.com/aleksandergrambelik-png/SanderDeflect) - Standalone Android Defense Dashboard. Features Math Challenge Access Gate, Decoy HTML, Tarpit, and Sinkhole JSON Logging. (APK)
+1. [SanderHexDump](https://github.com/aleksandergrambelik-png/SanderHexDump) - Native Android Hex Editor and Reverse Engineering Tool. Features 12-byte per line view and BackTrack-style UI. (APK)
+1. [SanderNotePad](https://github.com/aleksandergrambelik-png/SanderNotePad-Suite) - Standalone Android OSINT and Security Suite. Features Email Recon, Subdomain Finder, and Wikipedia Search. 608KB. (APK)
 
 ### Vulnerable Applications for practice
 

@@ -210,6 +210,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 ### App Repackaging Detectors
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detecting repackaged Android applications based on app resource hash comparison.
+2. [Detect-Any](https://github.com/lotty520/Detect-Any) - open-source Android environment integrity detection: root/Zygisk/hook/Frida/emulator/cloud-phone detection with 142 evidence-graded checks, hardware attestation, and a hot-updatable signature DB.
 
 ### Market Crawlers
 

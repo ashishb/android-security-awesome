@@ -90,6 +90,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 1. ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 1. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 1. ~~[SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)~~
+1. [REA](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting APK manifests, decompiled methods, and references with headless JADX.
 
 ### App Vulnerability Scanners
 

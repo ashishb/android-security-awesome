@@ -86,9 +86,11 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 1. [Mobile Audit](https://github.com/mpast/mobileAudit) - Web application for performing Static Analysis and detecting malware in Android APKs.
 1. [Detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 1. [APKdevastate](https://github.com/rafigk2v9c/APKdevastate/) - Advanced analysis software for APK payloads created by RATs.
+1. [LLMObfuscDetection](https://github.com/Mobile-IoT-Security-Lab/LLMObfuscDetection) - An open-source framework for detecting and classifying Android code obfuscation techniques using Large Language Models.
 1. ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
 1. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
 1. ~~[SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)~~
+1. [REA](https://github.com/morluto/rea) - Local CLI and MCP server for inspecting APK manifests, decompiled methods, and references with headless JADX.
 
 ### App Vulnerability Scanners
 
@@ -141,6 +143,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 1. [FlutterTap](https://github.com/script-or-script/FlutterTap) - Zygisk module that bypasses BoringSSL certificate verification inside `libflutter.so` and redirects the traffic of selected Flutter apps to a proxy. Persistent across reboots, so it needs no Frida session, no cable, and no listening port.
 1. [Mobix](https://github.com/blackfoxxx/Mobix) - Authorized Android pentest lab: Frida SSL-pinning/root-detection bypass chain, mitmproxy traffic capture with automatic IDOR flagging, a web dashboard, and a 36-tool MCP server so a Claude Code agent can run the whole scan-to-findings loop itself.
 1. [Lab-RATS-v1.6](https://github.com/K4N3CO/Lab-RATS-v1.6) - A lightweight Java-based Android Remote Administration Tool featuring a modern web interface for remote device interaction and administrative testing.
+1. [TeleGapper](https://github.com/Mobile-IoT-Security-Lab/TeleGapper) - An open-source black-box dynamic analysis framework for analyzing Telegram Mini Apps on Android, capturing network traffic, and checking data-flow disclosures against privacy policies.
 1. ~~[AppUse](https://appsec-labs.com/AppUse/) – custom build for penetration testing~~
 1. ~~[Appie](https://manifestsecurity.com/appie/) - Appie is a software package that has been pre-configured to function as an Android Pentesting Environment. It is completely portable and can be carried on a USB stick or smartphone. This is a one-stop answer for all the tools needed in Android Application Security Assessment and an awesome alternative to existing virtual machines.~~
 1. ~~[Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals~~
@@ -208,6 +211,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 ### App Repackaging Detectors
 
 1. [FSquaDRA](https://github.com/zyrikby/FSquaDRA) - a tool for detecting repackaged Android applications based on app resource hash comparison.
+2. [Detect-Any](https://github.com/lotty520/Detect-Any) - open-source Android environment integrity detection: root/Zygisk/hook/Frida/emulator/cloud-phone detection with 142 evidence-graded checks, hardware attestation, and a hot-updatable signature DB.
 
 ### Market Crawlers
 

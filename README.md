@@ -32,6 +32,7 @@ If you find this project useful, please consider [supporting it](./sponsors.md).
 1. [Koodous](https://koodous.com) - Performs static/dynamic malware analysis over a vast repository of Android samples and checks them against public and private Yara rules.
 1. [Immuniweb](https://www.immuniweb.com/mobile/). Does an "OWASP Mobile Top 10 Test", "Mobile App Privacy Check", and an application permissions test. The free tier is 4 tests per day, including a report after registration
 1. [ANY.RUN](https://app.any.run/) - An interactive cloud-based malware analysis platform with support for Android application analysis. Limited free plan available.
+1. [Privara Unmask](https://tajapps.com/unmask/) - Online Android malware sandbox that detonates APKs on a sandboxed Android 17 phone and recovers the C2 server, with STIX/CSV/PDF reports, an API and an MCP connector. Not free (pay per result, free trial).
 1. ~~[BitBaan](https://malab.bitbaan.com/)~~
 1. ~~[AVC UnDroid](http://undroid.av-comparatives.info/)~~
 1. ~~[AMAaaS](https://amaaas.com) - Free Android Malware Analysis Service. A bare-metal service that features static and dynamic analysis for Android applications. A product of [MalwarePot](https://malwarepot.com/index.php/AMAaaS)~~.
